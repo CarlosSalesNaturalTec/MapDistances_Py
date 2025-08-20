@@ -75,12 +75,13 @@ CACHE_DIR = ".cache_ba"
 GEOCODE_CACHE = os.path.join(CACHE_DIR, "geocode.json")
 ROUTE_CACHE = os.path.join(CACHE_DIR, "route.json")
 IDHM_CACHE = os.path.join(CACHE_DIR, "idhm2010.json")
+MUNICIPIOS_CACHE = os.path.join(CACHE_DIR, "municipios.json")
 
 # ---------- Utils ----------
 def ensure_cache_dir():
     os.makedirs(CACHE_DIR, exist_ok=True)
 
-def save_json(path: str, data: Dict):
+def save_json(path: str, data):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
@@ -110,15 +111,24 @@ def haversine_km(lat1, lon1, lat2, lon2) -> float:
 
 # ---------- Coleta IBGE ----------
 def get_municipios_ibge() -> pd.DataFrame:
-    """Retorna DataFrame com colunas: municipio, codigo_ibge"""
-    r = requests.get(API_MUNICIPIOS, headers=HEADERS, timeout=60)
-    r.raise_for_status()
-    j = r.json()
-    rows = []
-    for item in j:
-        nome = item["nome"]
-        codigo = int(item["id"])
-        rows.append({"municipio": nome, "codigo_ibge": codigo})
+    """Retorna DataFrame com colunas: municipio, codigo_ibge. Usa cache."""
+    ensure_cache_dir()
+    
+    if os.path.exists(MUNICIPIOS_CACHE):
+        rows = load_json(MUNICIPIOS_CACHE)
+    else:
+        print("Cache de municípios não encontrado. Buscando na API do IBGE...")
+        try:
+            r = requests.get(API_MUNICIPIOS, headers=HEADERS, timeout=60)
+            r.raise_for_status()
+            j = r.json()
+            rows = [{"municipio": item["nome"], "codigo_ibge": int(item["id"])} for item in j]
+            save_json(MUNICIPIOS_CACHE, rows)
+        except requests.RequestException as e:
+            print(f"Erro CRÍTICO ao buscar lista de municípios do IBGE: {e}")
+            print("Não é possível continuar sem a lista de municípios. Verifique sua conexão e tente novamente.")
+            exit(1)
+
     df = pd.DataFrame(rows)
     # Ordena alfabeticamente (ignorar acentos/caixa)
     df["nome_key"] = df["municipio"].map(normalize_name)
