@@ -1,0 +1,3122 @@
+{
+  "-12.974180,-38.512373->-13.251242,-41.664817": {
+    "distance_km": 534.4263000000001,
+    "duration_h": 7.653333333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-13.251333, -41.664738"
+  },
+  "-12.974180,-38.512373->-8.721844,-39.114441": {
+    "distance_km": 551.9535999999999,
+    "duration_h": 7.751388888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Edesio Tolentino",
+    "dest_coords": "-8.721852, -39.114348"
+  },
+  "-12.974180,-38.512373->-11.660923,-38.019123": {
+    "distance_km": 185.0977,
+    "duration_h": 2.903611111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Saturnino de Menezes",
+    "dest_coords": "-11.66086, -38.018958"
+  },
+  "-12.974180,-38.512373->-10.537309,-38.116913": {
+    "distance_km": 378.33509999999995,
+    "duration_h": 5.6857500000000005,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida José Joaquim de Santana",
+    "dest_coords": "-10.537244, -38.116823"
+  },
+  "-12.974180,-38.512373->-11.878469,-38.766371": {
+    "distance_km": 156.92229999999998,
+    "duration_h": 2.3032777777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Estrada para o Açude",
+    "dest_coords": "-11.87741, -38.76617"
+  },
+  "-12.974180,-38.512373->-14.126918,-39.888757": {
+    "distance_km": 411.98409999999996,
+    "duration_h": 6.123194444444445,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-14.126905, -39.888606"
+  },
+  "-12.974180,-38.512373->-11.800491,-37.944935": {
+    "distance_km": 167.14679999999998,
+    "duration_h": 2.6315,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-11.800591, -37.945209"
+  },
+  "-12.974180,-38.512373->-17.541311,-39.192314": {
+    "distance_km": 841.4182,
+    "duration_h": 13.999833333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça São Bernardo",
+    "dest_coords": "-17.541317, -39.192218"
+  },
+  "-12.974180,-38.512373->-14.703795,-39.638429": {
+    "distance_km": 455.4794,
+    "duration_h": 7.342944444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Mestre Antônio",
+    "dest_coords": "-14.703672, -39.638227"
+  },
+  "-12.974180,-38.512373->-13.030219,-39.604069": {
+    "distance_km": 231.8903,
+    "duration_h": 3.603833333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Riachuelo",
+    "dest_coords": "-13.030105, -39.603976"
+  },
+  "-12.974180,-38.512373->-12.401539,-38.751697": {
+    "distance_km": 88.6152,
+    "duration_h": 1.2193055555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua da França",
+    "dest_coords": "-12.402044, -38.75251"
+  },
+  "-12.974180,-38.512373->-11.451526,-41.435752": {
+    "distance_km": 430.8525,
+    "duration_h": 6.545083333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Nestor Borges",
+    "dest_coords": "-11.451523, -41.435756"
+  },
+  "-12.974180,-38.512373->-14.613467,-41.137631": {
+    "distance_km": 541.0675,
+    "duration_h": 7.977555555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua João Paulo",
+    "dest_coords": "-14.613477, -41.137954"
+  },
+  "-12.974180,-38.512373->-12.805967,-41.332292": {
+    "distance_km": 423.4106,
+    "duration_h": 5.544083333333334,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Joaquim Espínola",
+    "dest_coords": "-12.806797, -41.332577"
+  },
+  "-12.974180,-38.512373->-10.344571,-39.833441": {
+    "distance_km": 426.0837,
+    "duration_h": 6.015305555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua do Cruzeiro",
+    "dest_coords": "-10.344698, -39.833419"
+  },
+  "-12.974180,-38.512373->-12.005623,-44.700024": {
+    "distance_km": 860.1118,
+    "duration_h": 11.795027777777777,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Horácio de Souza",
+    "dest_coords": "-12.005607, -44.699825"
+  },
+  "-12.974180,-38.512373->-12.151274,-39.245748": {
+    "distance_km": 155.9673,
+    "duration_h": 2.2209166666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Felipe Pedreira Brandão",
+    "dest_coords": "-12.151295, -39.245796"
+  },
+  "-12.974180,-38.512373->-10.411465,-38.330881": {
+    "distance_km": 356.3055,
+    "duration_h": 5.327833333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Dois de Julho",
+    "dest_coords": "-10.411543, -38.330775"
+  },
+  "-12.974180,-38.512373->-12.436312,-39.120031": {
+    "distance_km": 149.7306,
+    "duration_h": 2.066638888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.436356, -39.120126"
+  },
+  "-12.974180,-38.512373->-10.571541,-40.274882": {
+    "distance_km": 398.1776,
+    "duration_h": 5.455166666666666,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua José Pinto Guerra",
+    "dest_coords": "-10.571491, -40.274875"
+  },
+  "-12.974180,-38.512373->-11.659932,-38.079392": {
+    "distance_km": 191.721,
+    "duration_h": 3.0065,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua José Inácio",
+    "dest_coords": "-11.659858, -38.079429"
+  },
+  "-12.974180,-38.512373->-13.851790,-39.745713": {
+    "distance_km": 332.36940000000004,
+    "duration_h": 5.279555555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-13.85195, -39.745698"
+  },
+  "-12.974180,-38.512373->-12.212678,-38.200623": {
+    "distance_km": 106.055,
+    "duration_h": 1.681861111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Praça da Matriz",
+    "dest_coords": "-12.212853, -38.200682"
+  },
+  "-12.974180,-38.512373->-14.429062,-41.459087": {
+    "distance_km": 536.9648000000001,
+    "duration_h": 8.318944444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Pedro Afonso Cangussu",
+    "dest_coords": "-14.429345, -41.459071"
+  },
+  "-12.974180,-38.512373->-11.337299,-38.963031": {
+    "distance_km": 220.9821,
+    "duration_h": 3.167666666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua José Pinheiro",
+    "dest_coords": "-11.337422, -38.963079"
+  },
+  "-12.974180,-38.512373->-12.090790,-38.498506": {
+    "distance_km": 127.5907,
+    "duration_h": 2.030194444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua da Bela Vista",
+    "dest_coords": "-12.090776, -38.49876"
+  },
+  "-12.974180,-38.512373->-15.261742,-39.412294": {
+    "distance_km": 491.6631,
+    "duration_h": 7.8228888888888894,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-15.261565, -39.412535"
+  },
+  "-12.974180,-38.512373->-13.077137,-39.001079": {
+    "distance_km": 198.43970000000002,
+    "duration_h": 3.1147222222222224,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Beco da Glória",
+    "dest_coords": "-13.077161, -39.000831"
+  },
+  "-12.974180,-38.512373->-14.316714,-39.325611": {
+    "distance_km": 366.74629999999996,
+    "duration_h": 5.832083333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Pedro Elias",
+    "dest_coords": "-14.316538, -39.325557"
+  },
+  "-12.974180,-38.512373->-12.306756,-44.538359": {
+    "distance_km": 812.3149000000001,
+    "duration_h": 11.0565,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.306799, -44.538072"
+  },
+  "-12.974180,-38.512373->-11.963094,-40.165754": {
+    "distance_km": 262.75579999999997,
+    "duration_h": 3.9004166666666666,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Joaquim Pamponet Pires",
+    "dest_coords": "-11.962749, -40.166055"
+  },
+  "-12.974180,-38.512373->-10.580476,-38.613026": {
+    "distance_km": 336.0892,
+    "duration_h": 5.0593055555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-10.580453, -38.613079"
+  },
+  "-12.974180,-38.512373->-13.627154,-41.327961": {
+    "distance_km": 478.3556,
+    "duration_h": 7.381277777777777,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Doutor João Moisés de Oliveira",
+    "dest_coords": "-13.627078, -41.328014"
+  },
+  "-12.974180,-38.512373->-14.863817,-40.576164": {
+    "distance_km": 507.1582,
+    "duration_h": 7.553805555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Roduzindo Santos",
+    "dest_coords": "-14.863864, -40.576572"
+  },
+  "-12.974180,-38.512373->-11.805330,-42.057037": {
+    "distance_km": 575.0691999999999,
+    "duration_h": 7.772944444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Juracy Magalhães",
+    "dest_coords": "-11.805331, -42.057061"
+  },
+  "-12.974180,-38.512373->-14.209097,-39.600440": {
+    "distance_km": 367.0932,
+    "duration_h": 5.806055555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-14.209018, -39.600281"
+  },
+  "-12.974180,-38.512373->-13.384715,-44.190887": {
+    "distance_km": 878.047,
+    "duration_h": 12.187916666666666,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-13.384802, -44.190709"
+  },
+  "-12.974180,-38.512373->-11.761083,-41.908500": {
+    "distance_km": 557.0208,
+    "duration_h": 7.498027777777779,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Edgar Dourado Lima",
+    "dest_coords": "-11.761072, -41.908394"
+  },
+  "-12.974180,-38.512373->-14.806829,-39.472759": {
+    "distance_km": 433.95390000000003,
+    "duration_h": 7.069694444444445,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Francisco Celestino",
+    "dest_coords": "-14.8067, -39.472646"
+  },
+  "-12.974180,-38.512373->-11.533867,-39.080211": {
+    "distance_km": 202.1995,
+    "duration_h": 2.9220277777777777,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Sinfrônio Queiroz",
+    "dest_coords": "-11.533403, -39.080618"
+  },
+  "-12.974180,-38.512373->-15.860627,-38.881659": {
+    "distance_km": 698.7784,
+    "duration_h": 11.76736111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Dom Pedro Segundo",
+    "dest_coords": "-15.860667, -38.881552"
+  },
+  "-12.974180,-38.512373->-13.772024,-42.715687": {
+    "distance_km": 682.4592,
+    "duration_h": 10.247805555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua 7 de Setembro",
+    "dest_coords": "-13.771916, -42.715682"
+  },
+  "-12.974180,-38.512373->-11.622791,-38.806674": {
+    "distance_km": 205.7928,
+    "duration_h": 2.9370000000000003,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça da Matriz",
+    "dest_coords": "-11.622893, -38.806592"
+  },
+  "-12.974180,-38.512373->-14.365907,-40.206306": {
+    "distance_km": 445.9031,
+    "duration_h": 6.614305555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-14.36544, -40.206506"
+  },
+  "-12.974180,-38.512373->-12.660599,-40.608359": {
+    "distance_km": 328.099,
+    "duration_h": 4.383666666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Marcelino Ribeiro",
+    "dest_coords": "-12.660349, -40.608427"
+  },
+  "-12.974180,-38.512373->-13.255380,-43.420214": {
+    "distance_km": 794.6654,
+    "duration_h": 11.08686111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Travessa da Liberdade",
+    "dest_coords": "-13.255305, -43.420168"
+  },
+  "-12.974180,-38.512373->-13.543766,-43.575235": {
+    "distance_km": 839.3051999999999,
+    "duration_h": 11.774222222222221,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Rio de Janeiro",
+    "dest_coords": "-13.543859, -43.574857"
+  },
+  "-12.974180,-38.512373->-12.709518,-41.829998": {
+    "distance_km": 505.0867,
+    "duration_h": 6.857611111111112,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Duque de Caxia",
+    "dest_coords": "-12.709143, -41.83004"
+  },
+  "-12.974180,-38.512373->-11.966547,-41.264990": {
+    "distance_km": 449.3245,
+    "duration_h": 5.912472222222223,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Travessa Juscelino Kubistchek",
+    "dest_coords": "-11.966536, -41.264963"
+  },
+  "-12.974180,-38.512373->-12.818486,-42.727088": {
+    "distance_km": 613.3668,
+    "duration_h": 8.821777777777779,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Santa Barbara",
+    "dest_coords": "-12.818435, -42.727176"
+  },
+  "-12.974180,-38.512373->-13.378316,-42.520802": {
+    "distance_km": 664.3168000000001,
+    "duration_h": 9.657333333333334,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Henrique de Oliveira Cruz",
+    "dest_coords": "-13.378082, -42.52067"
+  },
+  "-12.974180,-38.512373->-13.103375,-39.790984": {
+    "distance_km": 280.62420000000003,
+    "duration_h": 3.990888888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça do Campo",
+    "dest_coords": "-13.10281, -39.790973"
+  },
+  "-12.974180,-38.512373->-12.484385,-43.961186": {
+    "distance_km": 768.1493,
+    "duration_h": 10.50163888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Laudelino Xavier",
+    "dest_coords": "-12.484654, -43.961391"
+  },
+  "-12.974180,-38.512373->-12.001901,-42.625751": {
+    "distance_km": 605.1316999999999,
+    "duration_h": 8.14525,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Coronel Horácio de Matos",
+    "dest_coords": "-12.001895, -42.625856"
+  },
+  "-12.974180,-38.512373->-14.204023,-41.669835": {
+    "distance_km": 538.4278,
+    "duration_h": 7.942972222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Coronel Zeca Leite",
+    "dest_coords": "-14.204177, -41.669761"
+  },
+  "-12.974180,-38.512373->-14.958270,-39.301405": {
+    "distance_km": 444.58840000000004,
+    "duration_h": 7.08575,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Domingos Cabral",
+    "dest_coords": "-14.958366, -39.301375"
+  },
+  "-12.974180,-38.512373->-10.714210,-43.633672": {
+    "distance_km": 767.4249,
+    "duration_h": 11.783777777777777,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Prefeito Arival Viana",
+    "dest_coords": "-10.71413, -43.633682"
+  },
+  "-12.974180,-38.512373->-14.978276,-40.409233": {
+    "distance_km": 548.0775,
+    "duration_h": 8.307833333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Régis Pacheco",
+    "dest_coords": "-14.978198, -40.409244"
+  },
+  "-12.974180,-38.512373->-12.537787,-39.190134": {
+    "distance_km": 147.16729999999998,
+    "duration_h": 2.227527777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Navio Negreiro",
+    "dest_coords": "-12.537727, -39.189976"
+  },
+  "-12.974180,-38.512373->-12.603681,-38.963227": {
+    "distance_km": 118.6364,
+    "duration_h": 1.7385555555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Ladeira D'Ajuda",
+    "dest_coords": "-12.603774, -38.963202"
+  },
+  "-12.974180,-38.512373->-14.507455,-42.220220": {
+    "distance_km": 624.5584,
+    "duration_h": 9.541833333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Rui Barbosa",
+    "dest_coords": "-14.50749, -42.220071"
+  },
+  "-12.974180,-38.512373->-11.091133,-40.431697": {
+    "distance_km": 343.9428,
+    "duration_h": 4.9751111111111115,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Deputado Marcelo Guimarães Filho",
+    "dest_coords": "-11.09121, -40.431412"
+  },
+  "-12.974180,-38.512373->-14.338746,-40.908597": {
+    "distance_km": 507.6182,
+    "duration_h": 7.751111111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida da Conquista",
+    "dest_coords": "-14.338661, -40.908312"
+  },
+  "-12.974180,-38.512373->-14.053978,-42.471872": {
+    "distance_km": 637.2644,
+    "duration_h": 9.56325,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-14.053897, -42.471781"
+  },
+  "-12.974180,-38.512373->-11.694607,-41.468222": {
+    "distance_km": 449.9314,
+    "duration_h": 6.849055555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Djalma Rios",
+    "dest_coords": "-11.694586, -41.468306"
+  },
+  "-12.974180,-38.512373->-13.486610,-39.043844": {
+    "distance_km": 287.8836,
+    "duration_h": 4.564694444444445,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Visconde de Cairu",
+    "dest_coords": "-13.486773, -39.043667"
+  },
+  "-12.974180,-38.512373->-11.020848,-40.304139": {
+    "distance_km": 338.52979999999997,
+    "duration_h": 4.832666666666666,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça da Saudade",
+    "dest_coords": "-11.02065, -40.30426"
+  },
+  "-12.974180,-38.512373->-15.421843,-39.494558": {
+    "distance_km": 509.2571,
+    "duration_h": 8.100833333333334,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua da Prefeitura",
+    "dest_coords": "-15.421825, -39.494498"
+  },
+  "-12.974180,-38.512373->-12.705970,-38.319774": {
+    "distance_km": 50.573699999999995,
+    "duration_h": 0.8223888888888888,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.705681, -38.320085"
+  },
+  "-12.974180,-38.512373->-13.943814,-39.106092": {
+    "distance_km": 308.3247,
+    "duration_h": 4.853,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Duque de Caxias",
+    "dest_coords": "-13.943475, -39.105859"
+  },
+  "-12.974180,-38.512373->-9.516033,-43.010134": {
+    "distance_km": 827.7642,
+    "duration_h": 12.439555555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Rui Penalva",
+    "dest_coords": "-9.515901, -43.009944"
+  },
+  "-12.974180,-38.512373->-10.510550,-40.320031": {
+    "distance_km": 405.8155,
+    "duration_h": 5.567916666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Afranio Peixoto",
+    "dest_coords": "-10.510437, -40.320218"
+  },
+  "-12.974180,-38.512373->-13.072454,-44.200949": {
+    "distance_km": 853.0604000000001,
+    "duration_h": 11.85075,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-13.072469, -44.200896"
+  },
+  "-12.974180,-38.512373->-11.687015,-41.768367": {
+    "distance_km": 538.63,
+    "duration_h": 7.199027777777777,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Rio Branco",
+    "dest_coords": "-11.68688, -41.768407"
+  },
+  "-12.974180,-38.512373->-15.680932,-38.944524": {
+    "distance_km": 538.5310999999999,
+    "duration_h": 8.522527777777777,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Quinze de Novembro",
+    "dest_coords": "-15.680738, -38.944561"
+  },
+  "-12.974180,-38.512373->-11.805344,-39.120652": {
+    "distance_km": 177.1146,
+    "duration_h": 2.6042777777777775,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Antônio Martins Filho",
+    "dest_coords": "-11.804981, -39.12054"
+  },
+  "-12.974180,-38.512373->-12.669381,-38.540646": {
+    "distance_km": 50.3438,
+    "duration_h": 0.7712222222222223,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua São João",
+    "dest_coords": "-12.669308, -38.540586"
+  },
+  "-12.974180,-38.512373->-14.412503,-42.871410": {
+    "distance_km": 701.6676,
+    "duration_h": 10.65675,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua José Neves",
+    "dest_coords": "-14.412311, -42.871244"
+  },
+  "-12.974180,-38.512373->-15.505430,-41.237944": {
+    "distance_km": 603.5228000000001,
+    "duration_h": 9.127027777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Deputado Aves Macedo",
+    "dest_coords": "-15.505414, -41.237721"
+  },
+  "-12.974180,-38.512373->-10.666725,-39.504922": {
+    "distance_km": 331.0048,
+    "duration_h": 5.044027777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Travessa Santo Antônio",
+    "dest_coords": "-10.666736, -39.504724"
+  },
+  "-12.974180,-38.512373->-9.897184,-39.026510": {
+    "distance_km": 405.59090000000003,
+    "duration_h": 5.847666666666666,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Brasília",
+    "dest_coords": "-9.897278, -39.026429"
+  },
+  "-12.974180,-38.512373->-11.670394,-39.836275": {
+    "distance_km": 254.2541,
+    "duration_h": 3.8337777777777777,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Adelmiro Pereira Sampaio",
+    "dest_coords": "-11.670363, -39.836246"
+  },
+  "-12.974180,-38.512373->-11.378898,-40.006885": {
+    "distance_km": 277.9063,
+    "duration_h": 3.9569722222222223,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Luis Eduardo Magalhães",
+    "dest_coords": "-11.378957, -40.006711"
+  },
+  "-12.974180,-38.512373->-14.724960,-41.256616": {
+    "distance_km": 565.2016,
+    "duration_h": 8.404083333333334,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Manoel Lima",
+    "dest_coords": "-14.725172, -41.25653"
+  },
+  "-12.974180,-38.512373->-17.733957,-39.265668": {
+    "distance_km": 864.9385,
+    "duration_h": 14.363083333333332,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Barão do Rio Branco",
+    "dest_coords": "-17.733988, -39.265697"
+  },
+  "-12.974180,-38.512373->-11.942815,-37.949446": {
+    "distance_km": 159.955,
+    "duration_h": 2.556388888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Antonio de Carvalho",
+    "dest_coords": "-11.942829, -37.949453"
+  },
+  "-12.974180,-38.512373->-14.298524,-43.772349": {
+    "distance_km": 788.9164000000001,
+    "duration_h": 12.006916666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Democrata",
+    "dest_coords": "-14.2988, -43.77271"
+  },
+  "-12.974180,-38.512373->-12.765173,-39.425903": {
+    "distance_km": 186.06570000000002,
+    "duration_h": 2.8848333333333334,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça da Liberdade",
+    "dest_coords": "-12.765225, -39.426008"
+  },
+  "-12.974180,-38.512373->-12.315088,-44.861643": {
+    "distance_km": 855.5961,
+    "duration_h": 11.797916666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Reinaldo Antônio Pimentel",
+    "dest_coords": "-12.315376, -44.861634"
+  },
+  "-12.974180,-38.512373->-12.354962,-38.375891": {
+    "distance_km": 88.03110000000001,
+    "duration_h": 1.4315,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.354852, -38.375825"
+  },
+  "-12.974180,-38.512373->-13.330930,-42.292762": {
+    "distance_km": 643.2529000000001,
+    "duration_h": 9.33388888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua José Ribeiro Lula",
+    "dest_coords": "-13.330822, -42.292794"
+  },
+  "-12.974180,-38.512373->-8.979191,-39.100566": {
+    "distance_km": 506.4833,
+    "duration_h": 7.1490277777777775,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Vereador Francisco Pereira",
+    "dest_coords": "-8.979092, -39.100557"
+  },
+  "-12.974180,-38.512373->-10.591974,-38.385573": {
+    "distance_km": 330.81870000000004,
+    "duration_h": 4.913888888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Raimundo Borges Santana",
+    "dest_coords": "-10.591932, -38.385543"
+  },
+  "-12.974180,-38.512373->-11.099053,-38.515301": {
+    "distance_km": 249.60739999999998,
+    "duration_h": 4.0115,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Dom Pedro II",
+    "dest_coords": "-11.098815, -38.515632"
+  },
+  "-12.974180,-38.512373->-14.640798,-39.549676": {
+    "distance_km": 436.5442,
+    "duration_h": 6.989138888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Juracy Magalhães",
+    "dest_coords": "-14.640582, -39.549606"
+  },
+  "-12.974180,-38.512373->-14.181122,-44.538212": {
+    "distance_km": 879.2034,
+    "duration_h": 13.41788888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Camaçari",
+    "dest_coords": "-14.180863, -44.537955"
+  },
+  "-12.974180,-38.512373->-12.501300,-39.000217": {
+    "distance_km": 128.1573,
+    "duration_h": 1.8479444444444446,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.501358, -38.999971"
+  },
+  "-12.974180,-38.512373->-12.777276,-39.169221": {
+    "distance_km": 158.8344,
+    "duration_h": 2.453888888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Mário Caldas",
+    "dest_coords": "-12.776974, -39.169016"
+  },
+  "-12.974180,-38.512373->-11.571397,-39.281432": {
+    "distance_km": 217.9212,
+    "duration_h": 3.0948611111111113,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua José Ramos Guimares",
+    "dest_coords": "-11.571568, -39.281617"
+  },
+  "-12.974180,-38.512373->-12.326831,-38.768433": {
+    "distance_km": 102.02560000000001,
+    "duration_h": 1.4081666666666666,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua 13 de Maio",
+    "dest_coords": "-12.327146, -38.768374"
+  },
+  "-12.974180,-38.512373->-11.812976,-37.613870": {
+    "distance_km": 180.21120000000002,
+    "duration_h": 2.5505555555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-11.813117, -37.614142"
+  },
+  "-12.974180,-38.512373->-14.902227,-41.971829": {
+    "distance_km": 648.2741,
+    "duration_h": 9.886833333333334,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-14.902182, -41.97198"
+  },
+  "-12.974180,-38.512373->-13.761228,-41.042132": {
+    "distance_km": 436.0214,
+    "duration_h": 6.353194444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua 13 de Maio",
+    "dest_coords": "-13.761081, -41.041959"
+  },
+  "-12.974180,-38.512373->-12.247212,-38.748038": {
+    "distance_km": 112.46839999999999,
+    "duration_h": 1.5689444444444445,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.247199, -38.748183"
+  },
+  "-12.974180,-38.512373->-15.039722,-41.931423": {
+    "distance_km": 665.1214,
+    "duration_h": 10.202638888888888,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Jacinto Braz Ribeiro",
+    "dest_coords": "-15.039867, -41.931242"
+  },
+  "-12.974180,-38.512373->-13.828471,-44.457270": {
+    "distance_km": 949.2309,
+    "duration_h": 13.271333333333335,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Bahia",
+    "dest_coords": "-13.828298, -44.457124"
+  },
+  "-12.974180,-38.512373->-10.284490,-37.927202": {
+    "distance_km": 403.5328,
+    "duration_h": 6.270944444444445,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Doutor Carvalho de Sá",
+    "dest_coords": "-10.284537, -37.927128"
+  },
+  "-12.974180,-38.512373->-13.344157,-44.634507": {
+    "distance_km": 933.0531,
+    "duration_h": 13.033916666666666,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Pedro Guerra",
+    "dest_coords": "-13.344067, -44.635003"
+  },
+  "-12.974180,-38.512373->-12.031539,-44.260401": {
+    "distance_km": 821.0221,
+    "duration_h": 11.184666666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Barão do Rio Branco",
+    "dest_coords": "-12.031712, -44.26048"
+  },
+  "-12.974180,-38.512373->-13.357760,-39.814762": {
+    "distance_km": 293.16040000000004,
+    "duration_h": 4.585,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-13.35784, -39.814389"
+  },
+  "-12.974180,-38.512373->-11.510100,-38.149773": {
+    "distance_km": 211.5217,
+    "duration_h": 3.3193055555555557,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-11.510125, -38.149804"
+  },
+  "-12.974180,-38.512373->-12.234930,-44.416081": {
+    "distance_km": 796.2675,
+    "duration_h": 10.710361111111112,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Padre Vieira",
+    "dest_coords": "-12.234815, -44.416086"
+  },
+  "-12.974180,-38.512373->-12.674135,-39.102806": {
+    "distance_km": 143.3808,
+    "duration_h": 2.231611111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Senador Temístocles",
+    "dest_coords": "-12.674205, -39.102745"
+  },
+  "-12.974180,-38.512373->-8.992565,-39.905317": {
+    "distance_km": 594.4674,
+    "duration_h": 8.51961111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Doutor Euvaldo Torres de Aquino",
+    "dest_coords": "-8.992099, -39.905105"
+  },
+  "-12.974180,-38.512373->-14.433218,-39.902871": {
+    "distance_km": 394.041,
+    "duration_h": 6.367472222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Bom Jardim",
+    "dest_coords": "-14.43336, -39.902918"
+  },
+  "-12.974180,-38.512373->-12.608024,-38.310262": {
+    "distance_km": 55.8599,
+    "duration_h": 0.8962222222222223,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Travessa Raimundo Conceição Tabelião",
+    "dest_coords": "-12.607933, -38.310492"
+  },
+  "-12.974180,-38.512373->-13.758982,-41.771568": {
+    "distance_km": 591.8719,
+    "duration_h": 8.789472222222221,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Rodrigo Alves",
+    "dest_coords": "-13.758842, -41.771758"
+  },
+  "-12.974180,-38.512373->-12.907806,-39.190587": {
+    "distance_km": 175.9906,
+    "duration_h": 2.7369444444444446,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Manoel Francisco dos Santos",
+    "dest_coords": "-12.90775, -39.190588"
+  },
+  "-12.974180,-38.512373->-12.946982,-39.520431": {
+    "distance_km": 219.9607,
+    "duration_h": 3.521166666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Leonídia Santos",
+    "dest_coords": "-12.947025, -39.52036"
+  },
+  "-12.974180,-38.512373->-15.533440,-40.907647": {
+    "distance_km": 615.516,
+    "duration_h": 9.29,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Guarinos",
+    "dest_coords": "-15.533428, -40.907715"
+  },
+  "-12.974180,-38.512373->-11.945976,-38.086509": {
+    "distance_km": 142.8212,
+    "duration_h": 2.267611111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-11.945924, -38.086604"
+  },
+  "-12.974180,-38.512373->-13.419162,-42.138149": {
+    "distance_km": 646.9964,
+    "duration_h": 9.774694444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Castelo Branco",
+    "dest_coords": "-13.419193, -42.137955"
+  },
+  "-12.974180,-38.512373->-10.502159,-39.009835": {
+    "distance_km": 324.784,
+    "duration_h": 4.834694444444445,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua da Prefeitura",
+    "dest_coords": "-10.502217, -39.009604"
+  },
+  "-12.974180,-38.512373->-16.365137,-39.589928": {
+    "distance_km": 670.4319,
+    "duration_h": 11.244555555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Arquimedes Martins",
+    "dest_coords": "-16.365182, -39.589861"
+  },
+  "-12.974180,-38.512373->-10.596241,-38.218338": {
+    "distance_km": 348.8467,
+    "duration_h": 5.188,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Largo João Aribitu",
+    "dest_coords": "-10.59629, -38.218332"
+  },
+  "-12.974180,-38.512373->-14.211978,-44.282441": {
+    "distance_km": 848.1365999999999,
+    "duration_h": 12.916500000000001,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Galcino Pereira",
+    "dest_coords": "-14.212078, -44.282216"
+  },
+  "-12.974180,-38.512373->-12.255531,-38.965117": {
+    "distance_km": 117.3447,
+    "duration_h": 1.6486944444444445,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Getúlio Vargas",
+    "dest_coords": "-12.255338, -38.965109"
+  },
+  "-12.974180,-38.512373->-10.741888,-40.130418": {
+    "distance_km": 351.2365,
+    "duration_h": 4.846805555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Travessa Mangueira",
+    "dest_coords": "-10.742341, -40.130412"
+  },
+  "-12.974180,-38.512373->-14.987102,-39.924216": {
+    "distance_km": 486.82890000000003,
+    "duration_h": 7.920277777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-14.987175, -39.92422"
+  },
+  "-12.974180,-38.512373->-14.859279,-39.657285": {
+    "distance_km": 471.68640000000005,
+    "duration_h": 7.665361111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Elisia Matos",
+    "dest_coords": "-14.859285, -39.657391"
+  },
+  "-12.974180,-38.512373->-11.041454,-45.190398": {
+    "distance_km": 1011.7056,
+    "duration_h": 13.381833333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Antônio Carlos Magalhães",
+    "dest_coords": "-11.041027, -45.190463"
+  },
+  "-12.974180,-38.512373->-13.745143,-39.489500": {
+    "distance_km": 286.5021,
+    "duration_h": 4.560861111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Manoel Libanio da Silva",
+    "dest_coords": "-13.745402, -39.489277"
+  },
+  "-12.974180,-38.512373->-11.471430,-39.782632": {
+    "distance_km": 251.4985,
+    "duration_h": 3.6568055555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Eunice Almeira Moura",
+    "dest_coords": "-11.471277, -39.783042"
+  },
+  "-12.974180,-38.512373->-11.430214,-42.506318": {
+    "distance_km": 593.3239,
+    "duration_h": 9.31711111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-11.430085, -42.50641"
+  },
+  "-12.974180,-38.512373->-9.342906,-38.255255": {
+    "distance_km": 487.25120000000004,
+    "duration_h": 7.446111111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida José Hemetério de Carvalho",
+    "dest_coords": "-9.342656, -38.255423"
+  },
+  "-12.974180,-38.512373->-14.324025,-39.466511": {
+    "distance_km": 379.2752,
+    "duration_h": 6.019222222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua 12 de Abril",
+    "dest_coords": "-14.324019, -39.466208"
+  },
+  "-12.974180,-38.512373->-12.602153,-39.042961": {
+    "distance_km": 129.1709,
+    "duration_h": 1.958638888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua José Martins",
+    "dest_coords": "-12.602029, -39.043021"
+  },
+  "-12.974180,-38.512373->-14.546408,-41.937905": {
+    "distance_km": 599.21,
+    "duration_h": 9.011944444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-14.54648, -41.937728"
+  },
+  "-12.974180,-38.512373->-14.219508,-42.781683": {
+    "distance_km": 677.0798000000001,
+    "duration_h": 10.245444444444445,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-14.219286, -42.78165"
+  },
+  "-12.974180,-38.512373->-16.585611,-39.779903": {
+    "distance_km": 725.9336999999999,
+    "duration_h": 12.104305555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Juscelino Kubitschek",
+    "dest_coords": "-16.585566, -39.779941"
+  },
+  "-12.974180,-38.512373->-10.675153,-38.281439": {
+    "distance_km": 341.2691,
+    "duration_h": 5.063888888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça José Dantas",
+    "dest_coords": "-10.675248, -38.281486"
+  },
+  "-12.974180,-38.512373->-12.767207,-40.210643": {
+    "distance_km": 280.4508,
+    "duration_h": 3.9144444444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Doutor Geraldo Mota",
+    "dest_coords": "-12.767314, -40.21063"
+  },
+  "-12.974180,-38.512373->-14.271381,-42.257611": {
+    "distance_km": 615.2623000000001,
+    "duration_h": 9.189416666666666,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Senador Antônio Fernandes",
+    "dest_coords": "-14.271363, -42.257929"
+  },
+  "-12.974180,-38.512373->-14.862531,-39.589087": {
+    "distance_km": 465.1858,
+    "duration_h": 7.525916666666666,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-14.862335, -39.588961"
+  },
+  "-12.974180,-38.512373->-13.413079,-41.285121": {
+    "distance_km": 548.0609000000001,
+    "duration_h": 7.538083333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Demócrito Aguiar",
+    "dest_coords": "-13.413166, -41.285196"
+  },
+  "-12.974180,-38.512373->-14.844960,-39.987915": {
+    "distance_km": 460.7717,
+    "duration_h": 7.530611111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Castro Alves",
+    "dest_coords": "-14.844915, -39.988051"
+  },
+  "-12.974180,-38.512373->-11.642534,-42.008307": {
+    "distance_km": 521.8064,
+    "duration_h": 7.974444444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Aristides Almieda",
+    "dest_coords": "-11.642524, -42.008299"
+  },
+  "-12.974180,-38.512373->-12.880359,-42.487804": {
+    "distance_km": 589.5292,
+    "duration_h": 8.112222222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Cleriston Andrade",
+    "dest_coords": "-12.880562, -42.487743"
+  },
+  "-12.974180,-38.512373->-12.650914,-40.933922": {
+    "distance_km": 377.04290000000003,
+    "duration_h": 4.944555555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Alexandrino Vasconcelos",
+    "dest_coords": "-12.6509, -40.934061"
+  },
+  "-12.974180,-38.512373->-14.161569,-39.369522": {
+    "distance_km": 346.50140000000005,
+    "duration_h": 5.488194444444445,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-14.161382, -39.369396"
+  },
+  "-12.974180,-38.512373->-17.688596,-40.109756": {
+    "distance_km": 903.4098,
+    "duration_h": 15.22175,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Lourival Pereira Barros",
+    "dest_coords": "-17.688569, -40.109727"
+  },
+  "-12.974180,-38.512373->-14.068902,-39.639401": {
+    "distance_km": 334.4987,
+    "duration_h": 5.300805555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Travessa Miro Rio",
+    "dest_coords": "-14.068848, -39.639397"
+  },
+  "-12.974180,-38.512373->-12.649377,-42.217248": {
+    "distance_km": 540.6529,
+    "duration_h": 7.223166666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Francisco Castorino de Abreu",
+    "dest_coords": "-12.649336, -42.216972"
+  },
+  "-12.974180,-38.512373->-11.546163,-41.977385": {
+    "distance_km": 510.4823,
+    "duration_h": 7.800805555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Municipal",
+    "dest_coords": "-11.546176, -41.977387"
+  },
+  "-12.974180,-38.512373->-12.186009,-43.221678": {
+    "distance_km": 657.5501999999999,
+    "duration_h": 8.941416666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida JK",
+    "dest_coords": "-12.185848, -43.221737"
+  },
+  "-12.974180,-38.512373->-11.748650,-39.192641": {
+    "distance_km": 186.7809,
+    "duration_h": 2.765222222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça da Matriz",
+    "dest_coords": "-11.748852, -39.192739"
+  },
+  "-12.974180,-38.512373->-13.822712,-39.141986": {
+    "distance_km": 292.58959999999996,
+    "duration_h": 4.599694444444445,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-13.822731, -39.142143"
+  },
+  "-12.974180,-38.512373->-14.752754,-40.089417": {
+    "distance_km": 445.366,
+    "duration_h": 7.304222222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Ramiro Matos",
+    "dest_coords": "-14.752783, -40.089307"
+  },
+  "-12.974180,-38.512373->-17.538537,-39.738890": {
+    "distance_km": 830.9235,
+    "duration_h": 13.791611111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Marechal Castelo Branco",
+    "dest_coords": "-17.538369, -39.738763"
+  },
+  "-12.974180,-38.512373->-11.792172,-38.359696": {
+    "distance_km": 161.6185,
+    "duration_h": 2.577277777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-11.791401, -38.360068"
+  },
+  "-12.974180,-38.512373->-12.315826,-39.306421": {
+    "distance_km": 171.46710000000002,
+    "duration_h": 2.3830555555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Evaristo Reis",
+    "dest_coords": "-12.315621, -39.306634"
+  },
+  "-12.974180,-38.512373->-12.157834,-39.741661": {
+    "distance_km": 211.7596,
+    "duration_h": 3.093777777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Pergentino Dutra",
+    "dest_coords": "-12.158157, -39.741739"
+  },
+  "-12.974180,-38.512373->-11.822070,-42.611139": {
+    "distance_km": 636.9131,
+    "duration_h": 8.666527777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Adão Francisco Martins",
+    "dest_coords": "-11.822375, -42.611112"
+  },
+  "-12.974180,-38.512373->-13.252531,-40.084204": {
+    "distance_km": 307.5382,
+    "duration_h": 4.385472222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Travessa Paulino Coelho",
+    "dest_coords": "-13.252288, -40.08428"
+  },
+  "-12.974180,-38.512373->-13.293745,-40.957604": {
+    "distance_km": 401.6702,
+    "duration_h": 6.42875,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Artur Magalhães",
+    "dest_coords": "-13.294091, -40.957687"
+  },
+  "-12.974180,-38.512373->-12.243908,-41.616918": {
+    "distance_km": 471.87129999999996,
+    "duration_h": 6.157888888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Tito Luna Freire",
+    "dest_coords": "-12.24374, -41.616878"
+  },
+  "-12.974180,-38.512373->-12.042027,-38.763564": {
+    "distance_km": 136.7937,
+    "duration_h": 1.9449166666666666,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.041912, -38.763422"
+  },
+  "-12.974180,-38.512373->-16.573017,-39.558386": {
+    "distance_km": 698.026,
+    "duration_h": 11.666555555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Manoel Ribeiro Carneiro",
+    "dest_coords": "-16.573028, -39.558432"
+  },
+  "-12.974180,-38.512373->-12.531872,-40.305319": {
+    "distance_km": 279.5688,
+    "duration_h": 3.562361111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Barão do Rio Branco",
+    "dest_coords": "-12.532083, -40.305259"
+  },
+  "-12.974180,-38.512373->-14.278387,-38.995499": {
+    "distance_km": 362.7613,
+    "duration_h": 5.716277777777777,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Rui Barbosa",
+    "dest_coords": "-14.278331, -38.995444"
+  },
+  "-12.974180,-38.512373->-12.982318,-40.967094": {
+    "distance_km": 426.7785,
+    "duration_h": 6.21,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Adelardo Silva",
+    "dest_coords": "-12.982524, -40.967411"
+  },
+  "-12.974180,-38.512373->-14.162790,-40.006937": {
+    "distance_km": 416.9984,
+    "duration_h": 6.15325,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-14.163292, -40.006911"
+  },
+  "-12.974180,-38.512373->-14.289152,-39.845259": {
+    "distance_km": 372.8816,
+    "duration_h": 5.9711388888888886,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Albino Cajaíba",
+    "dest_coords": "-14.288924, -39.845138"
+  },
+  "-12.974180,-38.512373->-16.087226,-39.615621": {
+    "distance_km": 649.7098000000001,
+    "duration_h": 10.862944444444445,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua São João",
+    "dest_coords": "-16.08728, -39.615576"
+  },
+  "-12.974180,-38.512373->-11.011654,-42.398403": {
+    "distance_km": 550.0959,
+    "duration_h": 8.439,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua José Buzio de Carvalho",
+    "dest_coords": "-11.011654, -42.398401"
+  },
+  "-12.974180,-38.512373->-15.141071,-39.723985": {
+    "distance_km": 509.9005,
+    "duration_h": 8.532055555555557,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-15.141195, -39.724062"
+  },
+  "-12.974180,-38.512373->-14.674438,-39.375943": {
+    "distance_km": 413.3614,
+    "duration_h": 6.571777777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Cerqueira Campos",
+    "dest_coords": "-14.674311, -39.376115"
+  },
+  "-12.974180,-38.512373->-17.043238,-39.538162": {
+    "distance_km": 763.8968000000001,
+    "duration_h": 12.753638888888888,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça da Independência",
+    "dest_coords": "-17.04335, -39.538111"
+  },
+  "-12.974180,-38.512373->-13.778283,-39.680633": {
+    "distance_km": 315.8229,
+    "duration_h": 5.001305555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-13.778294, -39.680538"
+  },
+  "-12.974180,-38.512373->-15.243524,-40.626951": {
+    "distance_km": 573.2727,
+    "duration_h": 8.426166666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Gentil Flores",
+    "dest_coords": "-15.243546, -40.626935"
+  },
+  "-12.974180,-38.512373->-12.258972,-38.038863": {
+    "distance_km": 126.15060000000001,
+    "duration_h": 2.040888888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Padre Luiz Palmeiras",
+    "dest_coords": "-12.258933, -38.038543"
+  },
+  "-12.974180,-38.512373->-17.171646,-40.329969": {
+    "distance_km": 846.4193,
+    "duration_h": 15.084777777777777,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Castro Alves",
+    "dest_coords": "-17.171642, -40.330038"
+  },
+  "-12.974180,-38.512373->-12.881533,-38.684953": {
+    "distance_km": 31.581799999999998,
+    "duration_h": 1.175138888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Luís da Grana",
+    "dest_coords": "-12.881549, -38.685049"
+  },
+  "-12.974180,-38.512373->-14.897086,-39.424664": {
+    "distance_km": 447.45059999999995,
+    "duration_h": 7.212777777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-14.897103, -39.424615"
+  },
+  "-12.974180,-38.512373->-15.968256,-39.534491": {
+    "distance_km": 635.5828,
+    "duration_h": 10.721166666666665,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Othon Cachoeira Costa",
+    "dest_coords": "-15.96817, -39.534445"
+  },
+  "-12.974180,-38.512373->-15.245091,-40.248390": {
+    "distance_km": 544.3506,
+    "duration_h": 8.615972222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Coronel Belizário Ferraz",
+    "dest_coords": "-15.245065, -40.248678"
+  },
+  "-12.974180,-38.512373->-11.310750,-38.220163": {
+    "distance_km": 225.1782,
+    "duration_h": 3.5786944444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Beco da Igreja",
+    "dest_coords": "-11.310703, -38.220295"
+  },
+  "-12.974180,-38.512373->-14.421387,-39.566466": {
+    "distance_km": 401.2996,
+    "duration_h": 6.49275,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua da Conquista",
+    "dest_coords": "-14.4215, -39.566515"
+  },
+  "-12.974180,-38.512373->-13.446433,-39.938489": {
+    "distance_km": 327.24940000000004,
+    "duration_h": 4.790555555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-13.446491, -39.938318"
+  },
+  "-12.974180,-38.512373->-15.655200,-40.059949": {
+    "distance_km": 600.7271,
+    "duration_h": 9.57813888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Potiraguá",
+    "dest_coords": "-15.6554, -40.059823"
+  },
+  "-12.974180,-38.512373->-12.707317,-39.697448": {
+    "distance_km": 214.8558,
+    "duration_h": 2.89475,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.707332, -39.697219"
+  },
+  "-12.974180,-38.512373->-13.533839,-40.150244": {
+    "distance_km": 337.7015,
+    "duration_h": 4.843472222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Josias Duarte Santos",
+    "dest_coords": "-13.533825, -40.150193"
+  },
+  "-12.974180,-38.512373->-10.694075,-39.852560": {
+    "distance_km": 381.9225,
+    "duration_h": 5.302555555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Getúlio Vargas",
+    "dest_coords": "-10.694156, -39.852675"
+  },
+  "-12.974180,-38.512373->-15.117976,-40.068074": {
+    "distance_km": 511.0591,
+    "duration_h": 8.206472222222223,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua João Alves de Oliveira",
+    "dest_coords": "-15.118186, -40.068137"
+  },
+  "-12.974180,-38.512373->-13.813813,-41.297690": {
+    "distance_km": 509.6742,
+    "duration_h": 7.4975,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Gilberto Gil",
+    "dest_coords": "-13.813792, -41.297639"
+  },
+  "-12.974180,-38.512373->-13.736076,-39.148106": {
+    "distance_km": 282.167,
+    "duration_h": 4.410972222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Melo Leite",
+    "dest_coords": "-13.736174, -39.148311"
+  },
+  "-12.974180,-38.512373->-14.411301,-43.550864": {
+    "distance_km": 774.3007,
+    "duration_h": 11.778833333333335,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua José Ferreira Filho",
+    "dest_coords": "-14.411638, -43.55089"
+  },
+  "-12.974180,-38.512373->-13.620392,-44.469339": {
+    "distance_km": 929.4048,
+    "duration_h": 12.984666666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Sete de Setembro",
+    "dest_coords": "-13.620521, -44.469471"
+  },
+  "-12.974180,-38.512373->-14.845753,-42.432896": {
+    "distance_km": 677.6601999999999,
+    "duration_h": 10.703611111111112,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Mozart David",
+    "dest_coords": "-14.845759, -42.43305"
+  },
+  "-12.974180,-38.512373->-13.527072,-39.969354": {
+    "distance_km": 337.44,
+    "duration_h": 4.834222222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-13.527044, -39.969409"
+  },
+  "-12.974180,-38.512373->-10.257587,-40.194436": {
+    "distance_km": 407.04179999999997,
+    "duration_h": 5.606222222222223,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Clementino Cunha",
+    "dest_coords": "-10.257614, -40.194437"
+  },
+  "-12.974180,-38.512373->-13.114756,-38.894498": {
+    "distance_km": 215.5161,
+    "duration_h": 3.417527777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-13.11463, -38.894141"
+  },
+  "-12.974180,-38.512373->-11.565250,-37.783420": {
+    "distance_km": 206.30970000000002,
+    "duration_h": 3.26375,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Olavo Leite",
+    "dest_coords": "-11.565052, -37.782933"
+  },
+  "-12.974180,-38.512373->-10.071779,-38.349671": {
+    "distance_km": 396.515,
+    "duration_h": 5.952194444444445,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida José Gonçalves de Sá",
+    "dest_coords": "-10.071826, -38.34975"
+  },
+  "-12.974180,-38.512373->-13.255353,-39.569304": {
+    "distance_km": 246.5337,
+    "duration_h": 3.84825,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-13.255288, -39.569228"
+  },
+  "-12.974180,-38.512373->-14.017019,-39.888998": {
+    "distance_km": 397.6013,
+    "duration_h": 5.796444444444445,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-14.017008, -39.88901"
+  },
+  "-12.974180,-38.512373->-11.348364,-41.662651": {
+    "distance_km": 457.5583,
+    "duration_h": 6.9728055555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça João Dourado",
+    "dest_coords": "-11.348264, -41.66266"
+  },
+  "-12.974180,-38.512373->-9.411128,-40.503664": {
+    "distance_km": 508.54409999999996,
+    "duration_h": 7.1723888888888885,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Barão do Rio Branco",
+    "dest_coords": "-9.411378, -40.503717"
+  },
+  "-12.974180,-38.512373->-16.843311,-40.158302": {
+    "distance_km": 790.3898,
+    "duration_h": 13.703722222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua São Sebastião",
+    "dest_coords": "-16.843344, -40.158364"
+  },
+  "-12.974180,-38.512373->-11.047392,-41.971670": {
+    "distance_km": 511.402,
+    "duration_h": 7.891583333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-11.047391, -41.971722"
+  },
+  "-12.974180,-38.512373->-15.188245,-39.493597": {
+    "distance_km": 486.9175,
+    "duration_h": 7.755333333333334,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-15.188185, -39.493594"
+  },
+  "-12.974180,-38.512373->-13.513188,-41.591828": {
+    "distance_km": 557.3666999999999,
+    "duration_h": 7.9591666666666665,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Bahia",
+    "dest_coords": "-13.513197, -41.59199"
+  },
+  "-12.974180,-38.512373->-13.655767,-40.212119": {
+    "distance_km": 362.3101,
+    "duration_h": 5.259833333333334,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida São Roque",
+    "dest_coords": "-13.655448, -40.212179"
+  },
+  "-12.974180,-38.512373->-14.034630,-42.142193": {
+    "distance_km": 610.2732,
+    "duration_h": 9.228277777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Santa Maria",
+    "dest_coords": "-14.034946, -42.142181"
+  },
+  "-12.974180,-38.512373->-13.180996,-39.422297": {
+    "distance_km": 223.01239999999999,
+    "duration_h": 3.4743611111111115,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-13.18093, -39.422123"
+  },
+  "-12.974180,-38.512373->-17.612392,-40.345554": {
+    "distance_km": 908.9061999999999,
+    "duration_h": 15.075055555555554,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua José Evangelista Pessoa",
+    "dest_coords": "-17.612519, -40.345417"
+  },
+  "-12.974180,-38.512373->-12.355540,-40.903304": {
+    "distance_km": 361.2502,
+    "duration_h": 4.648888888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.355372, -40.903306"
+  },
+  "-12.974180,-38.512373->-13.474065,-40.219532": {
+    "distance_km": 347.0607,
+    "duration_h": 4.986,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua São Gabriel",
+    "dest_coords": "-13.474114, -40.219317"
+  },
+  "-12.974180,-38.512373->-11.795400,-38.885230": {
+    "distance_km": 185.16129999999998,
+    "duration_h": 2.631666666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-11.796128, -38.885794"
+  },
+  "-12.974180,-38.512373->-11.382715,-41.833808": {
+    "distance_km": 478.55859999999996,
+    "duration_h": 7.4848333333333334,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-11.383058, -41.833756"
+  },
+  "-12.974180,-38.512373->-12.896427,-38.324611": {
+    "distance_km": 26.5861,
+    "duration_h": 0.4756944444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça João Thiago dos Santos",
+    "dest_coords": "-12.896175, -38.324483"
+  },
+  "-12.974180,-38.512373->-12.563629,-41.391967": {
+    "distance_km": 419.418,
+    "duration_h": 5.415583333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Otaviano Alves",
+    "dest_coords": "-12.563553, -41.392022"
+  },
+  "-12.974180,-38.512373->-14.683588,-42.506259": {
+    "distance_km": 668.535,
+    "duration_h": 10.348,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Dois de Julho",
+    "dest_coords": "-14.683649, -42.506067"
+  },
+  "-12.974180,-38.512373->-13.651112,-41.841728": {
+    "distance_km": 605.8278,
+    "duration_h": 8.875722222222223,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Via De Acesso | Prefeitura Municipal | Sede Oficial | Poder Executivo | Município De Livramento De Nossa Senhora, BA",
+    "dest_coords": "-13.651112, -41.841728"
+  },
+  "-12.974180,-38.512373->-14.022281,-41.244957": {
+    "distance_km": 484.25690000000003,
+    "duration_h": 7.096027777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Luís Eduardo Magalhães",
+    "dest_coords": "-14.02224, -41.244854"
+  },
+  "-12.974180,-38.512373->-12.137856,-40.359135": {
+    "distance_km": 294.68,
+    "duration_h": 4.414111111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Coronel José Ribeiro Sampaio",
+    "dest_coords": "-12.137889, -40.358966"
+  },
+  "-12.974180,-38.512373->-15.564856,-40.423707": {
+    "distance_km": 586.7811999999999,
+    "duration_h": 9.298666666666666,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Camilo de Jesus Lima",
+    "dest_coords": "-15.564834, -40.423616"
+  },
+  "-12.974180,-38.512373->-13.017485,-42.688222": {
+    "distance_km": 625.7165,
+    "duration_h": 8.75288888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-13.017422, -42.687938"
+  },
+  "-12.974180,-38.512373->-9.167846,-39.059114": {
+    "distance_km": 477.9359,
+    "duration_h": 6.8126388888888885,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Municipal",
+    "dest_coords": "-9.167927, -39.059183"
+  },
+  "-12.974180,-38.512373->-12.745601,-38.615415": {
+    "distance_km": 64.581,
+    "duration_h": 1.0222499999999999,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Deijair Maria Pinheiro",
+    "dest_coords": "-12.745728, -38.615528"
+  },
+  "-12.974180,-38.512373->-14.662781,-41.491442": {
+    "distance_km": 582.2216,
+    "duration_h": 8.663361111111112,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-14.662815, -41.49173"
+  },
+  "-12.974180,-38.512373->-15.618285,-40.264816": {
+    "distance_km": 594.2289000000001,
+    "duration_h": 9.370694444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Francisco Martins",
+    "dest_coords": "-15.618239, -40.264824"
+  },
+  "-12.974180,-38.512373->-11.711870,-40.148339": {
+    "distance_km": 296.7603,
+    "duration_h": 4.4366666666666665,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Manoel Alves Belas",
+    "dest_coords": "-11.71194, -40.148355"
+  },
+  "-12.974180,-38.512373->-14.337919,-43.771665": {
+    "distance_km": 785.366,
+    "duration_h": 11.94225,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Manoel Pedro",
+    "dest_coords": "-14.337847, -43.771791"
+  },
+  "-12.974180,-38.512373->-14.386629,-41.879185": {
+    "distance_km": 575.9119000000001,
+    "duration_h": 8.584527777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Padre Ladislau",
+    "dest_coords": "-14.386754, -41.878837"
+  },
+  "-12.974180,-38.512373->-14.144839,-40.243970": {
+    "distance_km": 403.6171,
+    "duration_h": 5.890361111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Gabriel Dantas Novaes",
+    "dest_coords": "-14.144946, -40.243744"
+  },
+  "-12.974180,-38.512373->-10.719654,-44.035602": {
+    "distance_km": 821.305,
+    "duration_h": 12.767888888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Tranquedo Neves",
+    "dest_coords": "-10.719432, -44.035224"
+  },
+  "-12.974180,-38.512373->-13.440890,-40.433052": {
+    "distance_km": 351.7263,
+    "duration_h": 5.024,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Doutor João Pessoa",
+    "dest_coords": "-13.440884, -40.433194"
+  },
+  "-12.974180,-38.512373->-12.872954,-38.760298": {
+    "distance_km": 191.5073,
+    "duration_h": 2.9406388888888886,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.872864, -38.760378"
+  },
+  "-12.974180,-38.512373->-14.103022,-39.014432": {
+    "distance_km": 363.65209999999996,
+    "duration_h": 5.787638888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Ubaitaba",
+    "dest_coords": "-14.103171, -39.01404"
+  },
+  "-12.974180,-38.512373->-13.002433,-40.531748": {
+    "distance_km": 330.5811,
+    "duration_h": 4.838777777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Deraldo Flores",
+    "dest_coords": "-13.002582, -40.531593"
+  },
+  "-12.974180,-38.512373->-15.566874,-39.303882": {
+    "distance_km": 537.5454,
+    "duration_h": 8.595027777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Almir Silva Araújo",
+    "dest_coords": "-15.566819, -39.303896"
+  },
+  "-12.974180,-38.512373->-12.530685,-38.300898": {
+    "distance_km": 62.7364,
+    "duration_h": 0.99825,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua JJ. Seabra",
+    "dest_coords": "-12.530508, -38.300656"
+  },
+  "-12.974180,-38.512373->-13.909862,-42.846154": {
+    "distance_km": 706.9915,
+    "duration_h": 10.697750000000001,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Sátiro Virgílio Fernandes",
+    "dest_coords": "-13.909725, -42.846207"
+  },
+  "-12.974180,-38.512373->-17.373745,-40.220426": {
+    "distance_km": 890.6428000000001,
+    "duration_h": 14.725972222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Oscar Cardoso",
+    "dest_coords": "-17.373752, -40.220364"
+  },
+  "-12.974180,-38.512373->-11.430944,-40.597650": {
+    "distance_km": 375.72270000000003,
+    "duration_h": 5.480138888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Paulo Gonçalves",
+    "dest_coords": "-11.430514, -40.59751"
+  },
+  "-12.974180,-38.512373->-12.864635,-39.861092": {
+    "distance_km": 241.443,
+    "duration_h": 3.315083333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua do Campo Velho",
+    "dest_coords": "-12.864665, -39.861065"
+  },
+  "-12.974180,-38.512373->-10.954028,-40.576415": {
+    "distance_km": 372.0167,
+    "duration_h": 5.4599722222222224,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua José Joaquim de Carvalho",
+    "dest_coords": "-10.954178, -40.576461"
+  },
+  "-12.974180,-38.512373->-16.281938,-39.024366": {
+    "distance_km": 682.4581,
+    "duration_h": 11.498833333333334,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Cristal",
+    "dest_coords": "-16.281945, -39.024288"
+  },
+  "-12.974180,-38.512373->-10.440411,-39.331798": {
+    "distance_km": 361.99859999999995,
+    "duration_h": 5.404638888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Professor Salgado",
+    "dest_coords": "-10.4404, -39.331861"
+  },
+  "-12.974180,-38.512373->-11.562834,-43.276841": {
+    "distance_km": 696.4033000000001,
+    "duration_h": 9.955166666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-11.562579, -43.276628"
+  },
+  "-12.974180,-38.512373->-11.550029,-41.157025": {
+    "distance_km": 396.0378,
+    "duration_h": 5.992472222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Coronel Dias Coelho",
+    "dest_coords": "-11.549997, -41.157333"
+  },
+  "-12.974180,-38.512373->-15.023128,-42.368145": {
+    "distance_km": 702.4661,
+    "duration_h": 10.874444444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Israel Silva",
+    "dest_coords": "-15.023287, -42.368344"
+  },
+  "-12.974180,-38.512373->-13.005300,-41.370271": {
+    "distance_km": 470.138,
+    "duration_h": 6.2651666666666666,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Alto Boa Vista",
+    "dest_coords": "-13.005243, -41.370162"
+  },
+  "-12.974180,-38.512373->-18.080167,-39.545068": {
+    "distance_km": 928.4439,
+    "duration_h": 15.382027777777779,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Canárias",
+    "dest_coords": "-18.080255, -39.545114"
+  },
+  "-12.974180,-38.512373->-11.965356,-41.640824": {
+    "distance_km": 505.4053,
+    "duration_h": 6.689305555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Antonio Carlos Magalhães",
+    "dest_coords": "-11.965219, -41.640875"
+  },
+  "-12.974180,-38.512373->-11.857386,-40.473166": {
+    "distance_km": 304.8267,
+    "duration_h": 4.596805555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Hermínio Ramos",
+    "dest_coords": "-11.856868, -40.473082"
+  },
+  "-12.974180,-38.512373->-13.001255,-39.110213": {
+    "distance_km": 197.0083,
+    "duration_h": 3.0515833333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua SIqueira Campos",
+    "dest_coords": "-13.000928, -39.109525"
+  },
+  "-12.974180,-38.512373->-12.065016,-43.549719": {
+    "distance_km": 716.5598,
+    "duration_h": 9.774000000000001,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Alcantara Souza Maia",
+    "dest_coords": "-12.065214, -43.549979"
+  },
+  "-12.974180,-38.512373->-12.624734,-38.991267": {
+    "distance_km": 122.9573,
+    "duration_h": 1.8846388888888888,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Oito de Agosto",
+    "dest_coords": "-12.62475, -38.991137"
+  },
+  "-12.974180,-38.512373->-13.227552,-39.503200": {
+    "distance_km": 235.6799,
+    "duration_h": 3.664833333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida 12 de Outubro",
+    "dest_coords": "-13.227475, -39.503182"
+  },
+  "-12.974180,-38.512373->-13.601567,-39.104336": {
+    "distance_km": 265.0027,
+    "duration_h": 4.152444444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Nova da Baixa Fria",
+    "dest_coords": "-13.60096, -39.104025"
+  },
+  "-12.974180,-38.512373->-10.823444,-39.430114": {
+    "distance_km": 332.90290000000005,
+    "duration_h": 5.121222222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua José Paulista",
+    "dest_coords": "-10.823456, -39.429901"
+  },
+  "-12.974180,-38.512373->-14.793679,-40.145385": {
+    "distance_km": 496.7226,
+    "duration_h": 7.3645555555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Osvaldo Cruz",
+    "dest_coords": "-14.793793, -40.145396"
+  },
+  "-12.974180,-38.512373->-11.604610,-39.631054": {
+    "distance_km": 228.8003,
+    "duration_h": 3.37675,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-11.604535, -39.631005"
+  },
+  "-12.974180,-38.512373->-13.810257,-39.624783": {
+    "distance_km": 305.8218,
+    "duration_h": 4.880694444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-13.810401, -39.624947"
+  },
+  "-12.974180,-38.512373->-13.028076,-40.067885": {
+    "distance_km": 274.3218,
+    "duration_h": 3.848666666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Cruzeiro do Sul",
+    "dest_coords": "-13.027534, -40.067945"
+  },
+  "-12.974180,-38.512373->-12.822055,-41.074140": {
+    "distance_km": 415.98879999999997,
+    "duration_h": 5.483583333333334,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua José Joaquim de Souza",
+    "dest_coords": "-12.822221, -41.074122"
+  },
+  "-12.974180,-38.512373->-11.240933,-38.477412": {
+    "distance_km": 232.9129,
+    "duration_h": 3.7079166666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua do Paraiso",
+    "dest_coords": "-11.240948, -38.477426"
+  },
+  "-12.974180,-38.512373->-17.910549,-39.385841": {
+    "distance_km": 929.7348000000001,
+    "duration_h": 15.507555555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-17.910593, -39.385825"
+  },
+  "-12.974180,-38.512373->-10.334882,-38.420156": {
+    "distance_km": 366.8752,
+    "duration_h": 5.526722222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Pedro Macário",
+    "dest_coords": "-10.334854, -38.420084"
+  },
+  "-12.974180,-38.512373->-11.360131,-38.326957": {
+    "distance_km": 211.6746,
+    "duration_h": 3.3628888888888886,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Princesa Isabel",
+    "dest_coords": "-11.360159, -38.326936"
+  },
+  "-12.974180,-38.512373->-12.319331,-42.891427": {
+    "distance_km": 604.771,
+    "duration_h": 8.117722222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida das Oliveiras",
+    "dest_coords": "-12.319422, -42.891418"
+  },
+  "-12.974180,-38.512373->-12.010529,-38.625911": {
+    "distance_km": 155.6584,
+    "duration_h": 2.2319444444444443,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.011002, -38.626086"
+  },
+  "-12.974180,-38.512373->-10.968691,-41.080867": {
+    "distance_km": 409.9281,
+    "duration_h": 6.082750000000001,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida José Ferreira Silva",
+    "dest_coords": "-10.968682, -41.080874"
+  },
+  "-12.974180,-38.512373->-14.267324,-43.163116": {
+    "distance_km": 719.2604,
+    "duration_h": 10.917333333333334,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Góis Calmon",
+    "dest_coords": "-14.267306, -43.163033"
+  },
+  "-12.974180,-38.512373->-12.515104,-41.574276": {
+    "distance_km": 447.56940000000003,
+    "duration_h": 5.826027777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Doutor José Gonçalves",
+    "dest_coords": "-12.515174, -41.574272"
+  },
+  "-12.974180,-38.512373->-13.440854,-42.238747": {
+    "distance_km": 658.0535,
+    "duration_h": 9.574055555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Santo Antônio",
+    "dest_coords": "-13.440964, -42.238764"
+  },
+  "-12.974180,-38.512373->-12.692459,-43.180532": {
+    "distance_km": 721.6812,
+    "duration_h": 9.949833333333334,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.692426, -43.180958"
+  },
+  "-12.974180,-38.512373->-10.681658,-37.864804": {
+    "distance_km": 353.1659,
+    "duration_h": 5.043527777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Doutor João Dantas de Carvalho",
+    "dest_coords": "-10.68167, -37.864717"
+  },
+  "-12.974180,-38.512373->-15.464580,-39.651841": {
+    "distance_km": 531.2123,
+    "duration_h": 8.49225,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Juracy Magalhães",
+    "dest_coords": "-15.464762, -39.651788"
+  },
+  "-12.974180,-38.512373->-9.399032,-38.226886": {
+    "distance_km": 479.0848,
+    "duration_h": 7.275,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-9.398849, -38.226889"
+  },
+  "-12.974180,-38.512373->-11.834627,-39.610867": {
+    "distance_km": 221.0376,
+    "duration_h": 3.30625,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Vitor Carneiro",
+    "dest_coords": "-11.834596, -39.610647"
+  },
+  "-12.974180,-38.512373->-12.145130,-38.646620": {
+    "distance_km": 121.1454,
+    "duration_h": 1.8658333333333332,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua 12 de Julho",
+    "dest_coords": "-12.144728, -38.646774"
+  },
+  "-12.974180,-38.512373->-10.012135,-37.894897": {
+    "distance_km": 447.04940000000005,
+    "duration_h": 6.673416666666666,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Coronel João Maria de Carvalho",
+    "dest_coords": "-10.012184, -37.894913"
+  },
+  "-12.974180,-38.512373->-13.153564,-41.774376": {
+    "distance_km": 560.6123,
+    "duration_h": 7.7458888888888895,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Andreza Tatiléia Santana",
+    "dest_coords": "-13.153609, -41.774375"
+  },
+  "-12.974180,-38.512373->-10.000433,-42.479319": {
+    "distance_km": 786.1165,
+    "duration_h": 11.464583333333334,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Rodolfo de Queiroz Filho",
+    "dest_coords": "-10.00051, -42.47931"
+  },
+  "-12.974180,-38.512373->-14.490783,-42.685320": {
+    "distance_km": 679.9853,
+    "duration_h": 10.66788888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça do Mercado",
+    "dest_coords": "-14.490724, -42.685275"
+  },
+  "-12.974180,-38.512373->-10.743912,-40.361946": {
+    "distance_km": 381.898,
+    "duration_h": 5.608722222222223,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Pedro Luis",
+    "dest_coords": "-10.743969, -40.361784"
+  },
+  "-12.974180,-38.512373->-11.813042,-39.907601": {
+    "distance_km": 258.9694,
+    "duration_h": 3.83225,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-11.813035, -39.907529"
+  },
+  "-12.974180,-38.512373->-13.761325,-39.374305": {
+    "distance_km": 303.2199,
+    "duration_h": 4.849555555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Travessa Ruy Barbosa",
+    "dest_coords": "-13.76134, -39.374142"
+  },
+  "-12.974180,-38.512373->-14.941986,-41.714982": {
+    "distance_km": 637.9069000000001,
+    "duration_h": 9.661805555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Pedro Moura",
+    "dest_coords": "-14.941771, -41.714929"
+  },
+  "-12.974180,-38.512373->-11.732031,-40.556154": {
+    "distance_km": 324.3703,
+    "duration_h": 4.894583333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Reverendo Josias Silva Primo",
+    "dest_coords": "-11.732048, -40.55623"
+  },
+  "-12.974180,-38.512373->-13.260079,-40.369212": {
+    "distance_km": 321.6755,
+    "duration_h": 4.572611111111112,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-13.260686, -40.369629"
+  },
+  "-12.974180,-38.512373->-14.668833,-40.475467": {
+    "distance_km": 471.4388,
+    "duration_h": 6.995555555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Antônio Alves Azevedo",
+    "dest_coords": "-14.668681, -40.475506"
+  },
+  "-12.974180,-38.512373->-14.527488,-40.366533": {
+    "distance_km": 451.5533,
+    "duration_h": 6.657194444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Cardeal da Silva",
+    "dest_coords": "-14.527329, -40.366863"
+  },
+  "-12.974180,-38.512373->-12.432018,-38.330190": {
+    "distance_km": 76.69069999999999,
+    "duration_h": 1.2775555555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Almirante Vasconcelos",
+    "dest_coords": "-12.432074, -38.33009"
+  },
+  "-12.974180,-38.512373->-16.446843,-39.064316": {
+    "distance_km": 706.9786,
+    "duration_h": 11.997222222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Frei Calixto",
+    "dest_coords": "-16.446904, -39.064372"
+  },
+  "-12.974180,-38.512373->-15.594192,-39.874451": {
+    "distance_km": 573.6455,
+    "duration_h": 9.135027777777777,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Rita Maria Alves",
+    "dest_coords": "-15.59416, -39.874563"
+  },
+  "-12.974180,-38.512373->-17.335666,-39.230267": {
+    "distance_km": 814.0987,
+    "duration_h": 13.549333333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Sergio Cameiro",
+    "dest_coords": "-17.335733, -39.230357"
+  },
+  "-12.974180,-38.512373->-11.295918,-41.987157": {
+    "distance_km": 496.7705,
+    "duration_h": 7.61975,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-11.295869, -41.987188"
+  },
+  "-12.974180,-38.512373->-14.685696,-41.677010": {
+    "distance_km": 604.8181999999999,
+    "duration_h": 9.083666666666668,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Cuiabá",
+    "dest_coords": "-14.685764, -41.677142"
+  },
+  "-12.974180,-38.512373->-13.450904,-39.422076": {
+    "distance_km": 247.61079999999998,
+    "duration_h": 3.8809444444444443,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-13.450903, -39.42192"
+  },
+  "-12.974180,-38.512373->-10.980708,-39.624959": {
+    "distance_km": 291.65479999999997,
+    "duration_h": 4.445166666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Genesio Moreira",
+    "dest_coords": "-10.980773, -39.625"
+  },
+  "-12.974180,-38.512373->-10.753405,-39.208347": {
+    "distance_km": 340.6297,
+    "duration_h": 5.047555555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida São João",
+    "dest_coords": "-10.753424, -39.208096"
+  },
+  "-12.974180,-38.512373->-11.410986,-40.127993": {
+    "distance_km": 295.95529999999997,
+    "duration_h": 4.271444444444445,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua José Gomes",
+    "dest_coords": "-11.410803, -40.128065"
+  },
+  "-12.974180,-38.512373->-12.405150,-39.503219": {
+    "distance_km": 211.9957,
+    "duration_h": 2.828972222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Doutor Luis Eduardo Magalhães",
+    "dest_coords": "-12.405037, -39.503273"
+  },
+  "-12.974180,-38.512373->-9.617942,-42.083056": {
+    "distance_km": 716.1767,
+    "duration_h": 10.395166666666666,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Quinze de Novembro",
+    "dest_coords": "-9.618214, -42.082898"
+  },
+  "-12.974180,-38.512373->-11.493587,-39.424589": {
+    "distance_km": 236.8607,
+    "duration_h": 3.390416666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-11.493638, -39.424538"
+  },
+  "-12.974180,-38.512373->-11.748105,-44.910985": {
+    "distance_km": 911.4946,
+    "duration_h": 12.185361111111112,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida JK",
+    "dest_coords": "-11.748132, -44.910933"
+  },
+  "-12.974180,-38.512373->-11.807108,-39.381684": {
+    "distance_km": 193.5671,
+    "duration_h": 2.808527777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua João Paulo II",
+    "dest_coords": "-11.806849, -39.381401"
+  },
+  "-12.974180,-38.512373->-13.610098,-42.935525": {
+    "distance_km": 712.8335,
+    "duration_h": 10.723888888888888,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Centenário",
+    "dest_coords": "-13.610049, -42.935857"
+  },
+  "-12.974180,-38.512373->-11.039389,-38.430305": {
+    "distance_km": 262.8995,
+    "duration_h": 4.279555555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Irmã Mônica Maria Van Clooster",
+    "dest_coords": "-11.039374, -38.430386"
+  },
+  "-12.974180,-38.512373->-10.845279,-38.541962": {
+    "distance_km": 300.2165,
+    "duration_h": 4.449805555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua João de Deus Conceição Filho",
+    "dest_coords": "-10.84516, -38.541973"
+  },
+  "-12.974180,-38.512373->-15.458832,-40.741174": {
+    "distance_km": 609.0828,
+    "duration_h": 9.228527777777776,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-15.45898, -40.741076"
+  },
+  "-12.974180,-38.512373->-13.578155,-41.810864": {
+    "distance_km": 593.3247,
+    "duration_h": 8.577194444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Largo do Rosário",
+    "dest_coords": "-13.57837, -41.810873"
+  },
+  "-12.974180,-38.512373->-14.407337,-42.076701": {
+    "distance_km": 602.7624000000001,
+    "duration_h": 9.007944444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Ipê",
+    "dest_coords": "-14.406528, -42.076616"
+  },
+  "-12.974180,-38.512373->-13.125260,-42.290195": {
+    "distance_km": 606.1951,
+    "duration_h": 8.708277777777777,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Manoel Cândido Pereira",
+    "dest_coords": "-13.125444, -42.290044"
+  },
+  "-12.974180,-38.512373->-11.486979,-37.931749": {
+    "distance_km": 207.317,
+    "duration_h": 3.257361111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça da Bandeira",
+    "dest_coords": "-11.48689, -37.931955"
+  },
+  "-12.974180,-38.512373->-8.848574,-38.768270": {
+    "distance_km": 544.6426,
+    "duration_h": 8.098694444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua João Saturino de Resende",
+    "dest_coords": "-8.848693, -38.768346"
+  },
+  "-12.974180,-38.512373->-12.285667,-40.495836": {
+    "distance_km": 318.1317,
+    "duration_h": 4.150805555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.285778, -40.495841"
+  },
+  "-12.974180,-38.512373->-12.974180,-38.512373": {
+    "distance_km": 0.0,
+    "duration_h": 0.0,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua da Misericórdia",
+    "dest_coords": "-12.974331, -38.512191"
+  },
+  "-12.974180,-38.512373->-11.954376,-38.973638": {
+    "distance_km": 150.4664,
+    "duration_h": 2.0696944444444445,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-11.954272, -38.97325"
+  },
+  "-12.974180,-38.512373->-9.735345,-38.129164": {
+    "distance_km": 447.8942,
+    "duration_h": 6.769611111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Presidente Juscelino Kubitschek",
+    "dest_coords": "-9.735388, -38.129048"
+  },
+  "-12.974180,-38.512373->-14.962935,-39.810537": {
+    "distance_km": 497.445,
+    "duration_h": 7.988388888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Eurico Dutra",
+    "dest_coords": "-14.962911, -39.810527"
+  },
+  "-12.974180,-38.512373->-13.289770,-39.817970": {
+    "distance_km": 285.1449,
+    "duration_h": 4.439916666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Antero Duarte",
+    "dest_coords": "-13.289535, -39.818038"
+  },
+  "-12.974180,-38.512373->-15.429315,-39.333520": {
+    "distance_km": 523.5602,
+    "duration_h": 8.317305555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-15.429189, -39.333737"
+  },
+  "-12.974180,-38.512373->-11.001397,-44.520968": {
+    "distance_km": 1024.4292,
+    "duration_h": 13.75325,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-11.001303, -44.521216"
+  },
+  "-12.974180,-38.512373->-11.250531,-39.374662": {
+    "distance_km": 251.3018,
+    "duration_h": 3.8381111111111115,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Rozendo Lopes",
+    "dest_coords": "-11.250533, -39.374674"
+  },
+  "-12.974180,-38.512373->-12.024383,-38.865037": {
+    "distance_km": 152.0017,
+    "duration_h": 2.1483055555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Vítor Joaquim de Almeida",
+    "dest_coords": "-12.024389, -38.864875"
+  },
+  "-12.974180,-38.512373->-12.551969,-38.706045": {
+    "distance_km": 79.8972,
+    "duration_h": 1.1377777777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Conselheiro Saraiva",
+    "dest_coords": "-12.551954, -38.70602"
+  },
+  "-12.974180,-38.512373->-13.370707,-39.071497": {
+    "distance_km": 236.6179,
+    "duration_h": 3.709611111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Travessa General Labaut",
+    "dest_coords": "-13.370687, -39.071586"
+  },
+  "-12.974180,-38.512373->-12.429470,-39.251536": {
+    "distance_km": 156.7869,
+    "duration_h": 2.1141666666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Sete de Setembro",
+    "dest_coords": "-12.429471, -39.251355"
+  },
+  "-12.974180,-38.512373->-12.357196,-44.976881": {
+    "distance_km": 891.4747,
+    "duration_h": 11.94025,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Silvio José de Santana",
+    "dest_coords": "-12.357197, -44.976822"
+  },
+  "-12.974180,-38.512373->-12.841344,-39.094205": {
+    "distance_km": 174.1316,
+    "duration_h": 2.674361111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua José dos Reis Jaqueira",
+    "dest_coords": "-12.840761, -39.094187"
+  },
+  "-12.974180,-38.512373->-13.404131,-44.190255": {
+    "distance_km": 882.0735,
+    "duration_h": 12.242277777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Lessa",
+    "dest_coords": "-13.40408, -44.190139"
+  },
+  "-12.974180,-38.512373->-12.628108,-38.681133": {
+    "distance_km": 72.0733,
+    "duration_h": 1.1127777777777779,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.628039, -38.681169"
+  },
+  "-12.974180,-38.512373->-11.228186,-41.876825": {
+    "distance_km": 487.994,
+    "duration_h": 7.47725,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Valdemar Gama",
+    "dest_coords": "-11.228347, -41.876786"
+  },
+  "-12.974180,-38.512373->-12.433999,-38.948808": {
+    "distance_km": 116.449,
+    "duration_h": 1.6864166666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua da Estrada de Ferro",
+    "dest_coords": "-12.43396, -38.94839"
+  },
+  "-12.974180,-38.512373->-15.084537,-39.339815": {
+    "distance_km": 461.065,
+    "duration_h": 7.330472222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Rui Barbosa",
+    "dest_coords": "-15.084477, -39.339726"
+  },
+  "-12.974180,-38.512373->-11.504233,-40.024179": {
+    "distance_km": 292.8843,
+    "duration_h": 4.180583333333334,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-11.504234, -40.02424"
+  },
+  "-12.974180,-38.512373->-13.047749,-39.455461": {
+    "distance_km": 220.0889,
+    "duration_h": 3.4516666666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Maria Madalena",
+    "dest_coords": "-13.047772, -39.455747"
+  },
+  "-12.974180,-38.512373->-12.517793,-38.492157": {
+    "distance_km": 66.87939999999999,
+    "duration_h": 0.9735555555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Ernâni de Oliveira Rocha",
+    "dest_coords": "-12.517775, -38.491886"
+  },
+  "-12.974180,-38.512373->-12.729836,-39.185136": {
+    "distance_km": 151.9837,
+    "duration_h": 2.3581944444444445,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Milton Silva",
+    "dest_coords": "-12.729656, -39.185314"
+  },
+  "-12.974180,-38.512373->-11.603375,-38.581456": {
+    "distance_km": 214.24110000000002,
+    "duration_h": 3.493611111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-11.603444, -38.581625"
+  },
+  "-12.974180,-38.512373->-12.737293,-38.766300": {
+    "distance_km": 104.28410000000001,
+    "duration_h": 1.5745555555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.736498, -38.766905"
+  },
+  "-12.974180,-38.512373->-10.941763,-40.418941": {
+    "distance_km": 362.1153,
+    "duration_h": 5.251666666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Rui Barbosa",
+    "dest_coords": "-10.941537, -40.418851"
+  },
+  "-12.974180,-38.512373->-12.418317,-41.769709": {
+    "distance_km": 466.5353,
+    "duration_h": 6.082777777777777,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Horácio de Matos",
+    "dest_coords": "-12.418161, -41.769708"
+  },
+  "-12.974180,-38.512373->-14.570064,-42.943563": {
+    "distance_km": 729.3686,
+    "duration_h": 11.254833333333334,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Dois de Maio",
+    "dest_coords": "-14.570086, -42.943364"
+  },
+  "-12.974180,-38.512373->-9.739482,-41.883020": {
+    "distance_km": 695.3820999999999,
+    "duration_h": 10.135888888888887,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-9.73964, -41.883024"
+  },
+  "-12.974180,-38.512373->-12.758418,-43.950091": {
+    "distance_km": 792.4565,
+    "duration_h": 10.863444444444445,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Duque de Caxias",
+    "dest_coords": "-12.759068, -43.949916"
+  },
+  "-12.974180,-38.512373->-12.160840,-39.330494": {
+    "distance_km": 171.245,
+    "duration_h": 2.4709166666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.160818, -39.330417"
+  },
+  "-12.974180,-38.512373->-11.420001,-40.297494": {
+    "distance_km": 317.6826,
+    "duration_h": 4.6801111111111116,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Travessa Pedro Coleta de Matos",
+    "dest_coords": "-11.419975, -40.297268"
+  },
+  "-12.974180,-38.512373->-12.787741,-38.398924": {
+    "distance_km": 29.5699,
+    "duration_h": 0.4715555555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.787626, -38.398918"
+  },
+  "-12.974180,-38.512373->-13.084314,-43.468699": {
+    "distance_km": 791.3575,
+    "duration_h": 11.176972222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua das Flores",
+    "dest_coords": "-13.084319, -43.468674"
+  },
+  "-12.974180,-38.512373->-10.367598,-38.204166": {
+    "distance_km": 372.4925,
+    "duration_h": 5.615972222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "AvenidaTingui",
+    "dest_coords": "-10.367923, -38.204047"
+  },
+  "-12.974180,-38.512373->-9.471407,-40.805868": {
+    "distance_km": 552.6355,
+    "duration_h": 7.893472222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua B",
+    "dest_coords": "-9.471393, -40.805825"
+  },
+  "-12.974180,-38.512373->-12.089924,-41.648503": {
+    "distance_km": 490.2002,
+    "duration_h": 6.445111111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Prefeito José Sampaio",
+    "dest_coords": "-12.089888, -41.648524"
+  },
+  "-12.974180,-38.512373->-12.702075,-44.009107": {
+    "distance_km": 790.5387,
+    "duration_h": 10.848555555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.702046, -44.008794"
+  },
+  "-12.974180,-38.512373->-13.550938,-42.485157": {
+    "distance_km": 685.8806,
+    "duration_h": 9.992805555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Prefeito Elson Neves de Oliveira",
+    "dest_coords": "-13.551017, -42.485103"
+  },
+  "-12.974180,-38.512373->-11.974706,-39.105764": {
+    "distance_km": 157.3565,
+    "duration_h": 2.2305,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-11.974706, -39.10559"
+  },
+  "-12.974180,-38.512373->-13.537364,-39.098653": {
+    "distance_km": 257.1361,
+    "duration_h": 4.02675,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Francisco Marquês Filho",
+    "dest_coords": "-13.537395, -39.098284"
+  },
+  "-12.974180,-38.512373->-11.844760,-40.797053": {
+    "distance_km": 354.5111,
+    "duration_h": 5.393472222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Paiaiá",
+    "dest_coords": "-11.844721, -40.796992"
+  },
+  "-12.974180,-38.512373->-12.305385,-38.640898": {
+    "distance_km": 97.24969999999999,
+    "duration_h": 1.4028888888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.30555, -38.640888"
+  },
+  "-12.974180,-38.512373->-11.489166,-38.999741": {
+    "distance_km": 203.5623,
+    "duration_h": 2.9007222222222224,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Antônio Oliveira",
+    "dest_coords": "-11.489064, -38.999963"
+  },
+  "-12.974180,-38.512373->-13.603575,-39.492714": {
+    "distance_km": 268.6228,
+    "duration_h": 4.2434722222222225,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Lomanto Junior",
+    "dest_coords": "-13.603431, -39.492632"
+  },
+  "-12.974180,-38.512373->-12.408814,-38.623256": {
+    "distance_km": 83.19239999999999,
+    "duration_h": 1.1808888888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.408828, -38.622822"
+  },
+  "-12.974180,-38.512373->-14.977239,-41.411098": {
+    "distance_km": 600.453,
+    "duration_h": 9.075222222222221,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-14.977123, -41.411214"
+  },
+  "-12.974180,-38.512373->-10.963517,-38.785957": {
+    "distance_km": 267.55240000000003,
+    "duration_h": 3.90625,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Doutor Osvaldo Assunção",
+    "dest_coords": "-10.963452, -38.785961"
+  },
+  "-12.974180,-38.512373->-9.843541,-39.482903": {
+    "distance_km": 427.9395,
+    "duration_h": 6.123555555555555,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Belarmino José Rodrigues",
+    "dest_coords": "-9.843534, -39.483024"
+  },
+  "-12.974180,-38.512373->-13.261668,-39.661287": {
+    "distance_km": 259.2105,
+    "duration_h": 4.034916666666667,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-13.261354, -39.661079"
+  },
+  "-12.974180,-38.512373->-14.311777,-39.322660": {
+    "distance_km": 364.2296,
+    "duration_h": 5.775277777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Juca Magalhães",
+    "dest_coords": "-14.311395, -39.322704"
+  },
+  "-12.974180,-38.512373->-14.212002,-39.524592": {
+    "distance_km": 369.55159999999995,
+    "duration_h": 5.856722222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Landulfo Alves",
+    "dest_coords": "-14.211798, -39.52442"
+  },
+  "-12.974180,-38.512373->-11.339192,-42.134665": {
+    "distance_km": 513.4768,
+    "duration_h": 7.928833333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Pedro Joaquim Machado",
+    "dest_coords": "-11.339287, -42.134607"
+  },
+  "-12.974180,-38.512373->-10.728752,-41.322044": {
+    "distance_km": 446.93890000000005,
+    "duration_h": 6.755083333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Liborino LOpes de Almeida",
+    "dest_coords": "-10.728739, -41.322062"
+  },
+  "-12.974180,-38.512373->-15.293825,-39.074263": {
+    "distance_km": 484.7312,
+    "duration_h": 7.687555555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça Doutor Manoel Pereira de Andrade",
+    "dest_coords": "-15.293947, -39.074186"
+  },
+  "-12.974180,-38.512373->-14.768781,-42.654550": {
+    "distance_km": 693.6655,
+    "duration_h": 10.825444444444445,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Santos Dumont",
+    "dest_coords": "-14.768794, -42.654484"
+  },
+  "-12.974180,-38.512373->-14.591309,-39.286209": {
+    "distance_km": 400.7522,
+    "duration_h": 6.355583333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-14.591192, -39.286178"
+  },
+  "-12.974180,-38.512373->-12.078102,-41.090787": {
+    "distance_km": 424.0361,
+    "duration_h": 5.519777777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Leonor Belas",
+    "dest_coords": "-12.07818, -41.091008"
+  },
+  "-12.974180,-38.512373->-11.410134,-39.464013": {
+    "distance_km": 246.9477,
+    "duration_h": 3.5496944444444445,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Vicente Feliciano",
+    "dest_coords": "-11.409969, -39.464082"
+  },
+  "-12.974180,-38.512373->-11.608001,-40.137976": {
+    "distance_km": 311.938,
+    "duration_h": 4.480333333333333,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Praça da Bandeira",
+    "dest_coords": "-11.608199, -40.137971"
+  },
+  "-12.974180,-38.512373->-11.528339,-40.318907": {
+    "distance_km": 330.041,
+    "duration_h": 4.923805555555556,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Nabor Lima Rios",
+    "dest_coords": "-11.528165, -40.318949"
+  },
+  "-12.974180,-38.512373->-11.252793,-40.945657": {
+    "distance_km": 403.4979,
+    "duration_h": 6.045694444444444,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Messias Farias Soares",
+    "dest_coords": "-11.25299, -40.94592"
+  },
+  "-12.974180,-38.512373->-12.974535,-39.394472": {
+    "distance_km": 200.0104,
+    "duration_h": 3.115527777777778,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.974486, -39.394587"
+  },
+  "-12.974180,-38.512373->-12.963425,-38.608131": {
+    "distance_km": 24.92,
+    "duration_h": 1.061638888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua São Bento",
+    "dest_coords": "-12.963653, -38.608153"
+  },
+  "-12.974180,-38.512373->-17.221515,-40.084783": {
+    "distance_km": 858.2921,
+    "duration_h": 14.463000000000001,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Avenida Deputado Eujácio Simões",
+    "dest_coords": "-17.221522, -40.084742"
+  },
+  "-12.974180,-38.512373->-14.849862,-40.837130": {
+    "distance_km": 516.182,
+    "duration_h": 7.716638888888889,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Coronel Gugé",
+    "dest_coords": "-14.849934, -40.83698"
+  },
+  "-12.974180,-38.512373->-12.281859,-41.168673": {
+    "distance_km": 399.2627,
+    "duration_h": 5.130222222222222,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Antônio Jardim",
+    "dest_coords": "-12.281691, -41.168643"
+  },
+  "-12.974180,-38.512373->-12.120899,-43.890569": {
+    "distance_km": 746.3896,
+    "duration_h": 10.506722222222221,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "N/A",
+    "dest_coords": "-12.120768, -43.890663"
+  },
+  "-12.974180,-38.512373->-13.686636,-39.479122": {
+    "distance_km": 279.15979999999996,
+    "duration_h": 4.416861111111111,
+    "origin_name": "Rua da Misericórdia",
+    "origin_coords": "-12.974331, -38.512191",
+    "dest_name": "Rua Antônio Jenkins",
+    "dest_coords": "-13.686324, -39.479052"
+  }
+}

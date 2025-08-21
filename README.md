@@ -9,13 +9,16 @@ O script coleta, processa e combina as seguintes informações para cada municí
 2.  **Código IBGE**: Código de 7 dígitos do Instituto Brasileiro de Geografia e Estatística.
 3.  **IDHM 2010**: Índice de Desenvolvimento Humano Municipal referente ao ano de 2010.
 4.  **Distância Geodésica**: Distância em linha reta (km) da sede do município até a capital, Salvador.
-5.  **Distância Rodoviária**: Distância estimada por rodovia (km) até Salvador, calculada por um serviço de roteamento.
+5.  **Distância Rodoviária**: Distância estimada por rodovia (km) até Salvador.
+6.  **Duração da Viagem**: Tempo estimado de viagem (em horas) de carro até Salvador.
+7.  **Detalhes da Origem/Destino**: Endereço e coordenadas exatas do ponto de partida em Salvador e do ponto de chegada no município.
 
 ## Funcionalidades
 
 - **Agregação de Dados**: Combina informações de 4 fontes de dados públicas diferentes em uma única tabela.
 - **Sistema de Cache Inteligente**: Na primeira execução, os dados obtidos da web (coordenadas, rotas, IDH) são salvos em arquivos locais no diretório `.cache_ba`. Em execuções futuras, o script lê diretamente do cache, tornando o processo muito mais rápido e evitando sobrecarregar as APIs públicas.
-- **Robustez**: Possui uma lógica de fallback para encontrar as coordenadas geográficas dos municípios, aumentando a chance de sucesso.
+- **Robustez**: Possui uma lógica de fallback para encontrar as coordenadas geográficas dos municípios e para usar o nome do município como destino caso a API de rotas não retorne um endereço específico.
+- **Segurança**: Interrompe a execução automaticamente se detectar um número excessivo de respostas inválidas da API de rotas, evitando execuções longas e com falhas.
 - **Flexibilidade**: Permite, via argumentos de linha de comando, customizar o nome do arquivo de saída e pular a etapa de cálculo de rotas, que é a mais demorada.
 
 ## Pré-requisitos
@@ -49,8 +52,6 @@ python ba_417_idh_distancias.py
   python ba_417_idh_distancias.py --no-osrm
   ```
 
-- `--resume`: Argumento reservado para uma futura implementação que permitiria continuar um processamento interrompido.
-
 ## Como Funciona
 
 O fluxo de trabalho do script é o seguinte:
@@ -58,9 +59,9 @@ O fluxo de trabalho do script é o seguinte:
 1.  **Coleta de Municípios**: Obtém a lista oficial dos 417 municípios e seus códigos da API de Localidades do IBGE.
 2.  **Extração de IDH**: Faz o scraping (raspagem) de uma tabela HTML de uma página da Wikipedia para obter o IDHM de 2010 de cada cidade. O resultado é salvo em `idhm2010.json`.
 3.  **Geocodificação**: Utiliza a API do Nominatim (baseada no OpenStreetMap) para encontrar as coordenadas (latitude e longitude) de Salvador (Capital do estado) e de cada um dos outros municípios. Os resultados são salvos em `geocode.json`.
-4.  **Cálculo de Distâncias**:
+4.  **Cálculo de Distâncias e Rota**:
     - **Geodésica**: Usa a fórmula de Haversine para calcular a distância em linha reta.
-    - **Rodoviária**: Envia as coordenadas de origem (Salvador) e destino para a API pública do OSRM, que retorna a distância estimada da rota. Os resultados são salvos em `route.json`.
+    - **Rodoviária**: Envia as coordenadas de origem (Salvador) e destino para a API pública do OSRM, que retorna um objeto completo da rota, incluindo distância, duração e detalhes dos pontos de partida/chegada. Os resultados são salvos em `route.json`.
 5.  **Geração do CSV**: Consolida todos os dados em um DataFrame do pandas e o exporta para um arquivo CSV limpo e organizado.
 
 ## Fontes dos Dados
@@ -75,10 +76,8 @@ O fluxo de trabalho do script é o seguinte:
 O arquivo gerado terá a seguinte estrutura:
 
 ```csv
-municipio,codigo_ibge,idhm_2010,dist_km_geodesica_salvador,dist_km_rodoviaria_salvador
-Abaira,2900108,0.597,329.3,565.4
-Abare,2900207,0.556,380.1,459.2
-Acajutiba,2900306,0.584,153.8,189.7
-Adustina,2900355,0.543,283.5,341.9
+municipio,codigo_ibge,idhm_2010,dist_km_geodesica_salvador,dist_km_rodoviaria_salvador,duracao_h_viagem,origem_endereco,origem_coords,destino_municipio_endereco,destino_municipio_coords
+Abaíra,2900108,0.597,342.8,534.4,7.65,"Rua da Misericórdia","-12.974331, -38.512191",Abaíra,"-13.251333, -41.664738"
+Abaré,2900207,0.556,477.4,552.0,7.82,"Rua da Misericórdia","-12.974331, -38.512191",Abaré,"-8.721844, -39.114441"
 ...
 ```

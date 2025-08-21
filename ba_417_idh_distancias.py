@@ -64,7 +64,6 @@ UF_BA = 29
 API_MUNICIPIOS = f"https://servicodados.ibge.gov.br/api/v1/localidades/estados/{UF_BA}/municipios"
 WIKI_IDHM = "https://pt.wikipedia.org/wiki/Lista_de_munic%C3%ADpios_da_Bahia_por_IDH-M"
 NOMINATIM = "https://nominatim.openstreetmap.org/search"
-OSRM_ROUTE = "https://router.project-osrm.org/route/v1/driving/{olon},{olat};{dlon},{dlat}?overview=false&alternatives=false"
 
 # Delays para cortesia com os serviços
 SLEEP_NOMINATIM = 1.5
@@ -220,21 +219,51 @@ def get_salvador_coords() -> Tuple[float, float]:
     return coords
 
 # ---------- OSRM (rota rodoviária) ----------
-def osrm_distance_km(orig: Tuple[float, float], dest: Tuple[float, float]) -> Optional[float]:
+def get_osrm_route_info(orig: Tuple[float, float], dest: Tuple[float, float]) -> Optional[Dict]:
+    """Obtém informações de rota (distância, duração, etc.) da API OSRM."""
     olat, olon = orig
     dlat, dlon = dest
-    url = OSRM_ROUTE.format(olat=olat, olon=olon, dlat=dlat, dlon=dlon)
-    r = requests.get(url, headers=HEADERS, timeout=60)
-    if r.status_code != 200:
+    
+    url = f"https://router.project-osrm.org/route/v1/driving/{olon},{olat};{dlon},{dlat}?overview=false&alternatives=false"
+    
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=60)
+        r.raise_for_status()
+        
+        data = r.json()
+        
+        if not data.get("routes") or not data.get("waypoints"):
+            return None
+            
+        route = data["routes"][0]
+        waypoints = data["waypoints"]
+        
+        distance_km = route.get("distance") / 1000.0 if route.get("distance") is not None else None
+        duration_h = route.get("duration") / 3600.0 if route.get("duration") is not None else None
+        
+        origin_wp = waypoints[0]
+        dest_wp = waypoints[1]
+        
+        # OSRM retorna coordenadas como [longitude, latitude], então invertemos para o padrão [lat, lon]
+        origin_coords_list = origin_wp.get("location")
+        origin_coords = f"{origin_coords_list[1]}, {origin_coords_list[0]}" if origin_coords_list else None
+        
+        dest_coords_list = dest_wp.get("location")
+        dest_coords = f"{dest_coords_list[1]}, {dest_coords_list[0]}" if dest_coords_list else None
+        
+        return {
+            "distance_km": distance_km,
+            "duration_h": duration_h,
+            "origin_name": origin_wp.get("name") or "N/A",
+            "origin_coords": origin_coords,
+            "dest_name": dest_wp.get("name") or "N/A",
+            "dest_coords": dest_coords
+        }
+        
+    except (requests.RequestException, json.JSONDecodeError) as e:
+        print(f"\nAviso: Falha na requisição ou processamento da resposta da OSRM: {e}")
         return None
-    j = r.json()
-    routes = j.get("routes")
-    if not routes:
-        return None
-    meters = routes[0].get("distance")
-    if meters is None:
-        return None
-    return meters / 1000.0
+
 
 # ---------- Pipeline principal ----------
 def main():
@@ -249,15 +278,12 @@ def main():
     route_cache = load_json(ROUTE_CACHE)
 
     print("1) Coletando municípios e códigos IBGE (IBGE Localidades)...")
-    df = get_municipios_ibge()  # municipio, codigo_ibge
+    df = get_municipios_ibge() # municipio,codigo_ibge
 
     print("2) Carregando IDHM 2010 (Wikipedia)...")
     idh_map = get_idhm_2010()
-
-    # Prepara DataFrame
     df["idhm_2010"] = df["municipio"].map(lambda n: idh_map.get(normalize_name(n), None))
 
-    # Geocodificação de Salvador (origem)
     print("3) Geocodificando Salvador (origem)...")
     key_salvador = normalize_name("Salvador")
     if key_salvador in geocode_cache:
@@ -268,72 +294,100 @@ def main():
         save_json(GEOCODE_CACHE, geocode_cache)
     time.sleep(SLEEP_NOMINATIM)
 
-    # Colunas de saída
-    df["dist_km_geodesica_salvador"] = None
-    df["dist_km_rodoviaria_salvador"] = None
-    df["lat"] = None
-    df["lon"] = None
-
     print("4) Geocodificando sedes municipais e calculando distâncias...")
+    
+    consecutive_zero_distances = 0
+    MAX_CONSECUTIVE_ZEROS = 10
+
+    # Listas para coletar todos os resultados
+    lats, lons, geo_kms = [], [], []
+    rod_kms, durations_h, origin_names, origin_coords, dest_names, dest_coords = [], [], [], [], [], []
+
     it = tqdm(df.itertuples(index=False), total=len(df))
     for row in it:
         nome = getattr(row, "municipio")
         key = normalize_name(nome)
+        it.set_description(f"Processando: {nome}")
 
-        # Geocodificação (cache → prefeitura → cidade)
-        if key in geocode_cache:
-            lat, lon = geocode_cache[key]
-        else:
+        # --- Geocodificação ---
+        lat, lon = geocode_cache.get(key) or (None, None)
+        if lat is None:
             coords = geocode_municipio(nome)
             if coords:
                 lat, lon = coords
                 geocode_cache[key] = [lat, lon]
                 save_json(GEOCODE_CACHE, geocode_cache)
-            else:
-                lat, lon = None, None
-        time.sleep(SLEEP_NOMINATIM)
+            time.sleep(SLEEP_NOMINATIM)
+        lats.append(lat)
+        lons.append(lon)
 
-        # Atualiza DF (coords e geodésica)
-        if lat is not None and lon is not None:
-            df.loc[df["municipio"] == nome, ["lat", "lon"]] = [lat, lon]
-            geo_km = haversine_km(lat_s, lon_s, lat, lon)
-            df.loc[df["municipio"] == nome, "dist_km_geodesica_salvador"] = round(geo_km, 1)
-        else:
-            df.loc[df["municipio"] == nome, "dist_km_geodesica_salvador"] = None
+        # --- Distância Geodésica ---
+        geo_kms.append(round(haversine_km(lat_s, lon_s, lat, lon), 1) if lat and lon else None)
 
-        # Distância rodoviária (OSRM)
-        if not args.no_osrm and lat is not None and lon is not None:
+        # --- Rota Rodoviária (OSRM) ---
+        route_info = None
+        if not args.no_osrm and lat and lon:
             route_key = f"{lat_s:.6f},{lon_s:.6f}->{lat:.6f},{lon:.6f}"
             if route_key in route_cache:
-                rod_km = route_cache[route_key]
+                route_info = route_cache[route_key]
             else:
-                rod_km = osrm_distance_km((lat_s, lon_s), (lat, lon))
-                route_cache[route_key] = None if rod_km is None else float(rod_km)
+                route_info = get_osrm_route_info((lat_s, lon_s), (lat, lon))
+                route_cache[route_key] = route_info
                 save_json(ROUTE_CACHE, route_cache)
             time.sleep(SLEEP_OSRM)
-            if rod_km is not None:
-                df.loc[df["municipio"] == nome, "dist_km_rodoviaria_salvador"] = round(rod_km, 1)
+        
+        # Adiciona os resultados da rota (ou None se falhou)
+        rod_kms.append(round(route_info["distance_km"], 1) if route_info and route_info.get("distance_km") is not None else None)
+        durations_h.append(round(route_info["duration_h"], 2) if route_info and route_info.get("duration_h") is not None else None)
+        origin_names.append(route_info.get("origin_name") if route_info else None)
+        origin_coords.append(route_info.get("origin_coords") if route_info else None)
+        
+        # Usa o nome do município como fallback para o destino
+        dest_name = route_info.get("dest_name") if route_info else None
+        if not dest_name or dest_name == "N/A":
+            dest_names.append(nome)
+        else:
+            dest_names.append(dest_name)
+            
+        dest_coords.append(route_info.get("dest_coords") if route_info else None)
 
-        it.set_description(f"Processando: {nome}")
+        # --- Verificação de zeros consecutivos ---
+        if route_info and route_info.get("distance_km", 0) < 0.1:
+            consecutive_zero_distances += 1
+        else:
+            consecutive_zero_distances = 0
 
-    # Ordena alfabeticamente para saída
-    df["nome_key"] = df["municipio"].map(normalize_name)
-    df_out = df.sort_values("nome_key").drop(columns=["nome_key"])
+        if consecutive_zero_distances >= MAX_CONSECUTIVE_ZEROS:
+            it.close()
+            print(f"\nERRO CRÍTICO: Interrompido após {MAX_CONSECUTIVE_ZEROS} respostas de distância zero consecutivas.")
+            # Atribui dados parciais antes de sair para permitir a depuração
+            df["dist_km_rodoviaria_salvador"] = rod_kms
+            out_path_parcial = args.out.replace(".csv", "_parcial_erro.csv")
+            df.to_csv(out_path_parcial, index=False, encoding="utf-8")
+            exit(1)
 
-    # Seleciona colunas finais
-    df_out = df_out[[
-        "municipio",
-        "codigo_ibge",
-        "idhm_2010",
-        "dist_km_geodesica_salvador",
-        "dist_km_rodoviaria_salvador"
+    # Atribui todas as listas de resultados ao DataFrame
+    df["dist_km_geodesica_salvador"] = geo_kms
+    df["dist_km_rodoviaria_salvador"] = rod_kms
+    df["duracao_h_viagem"] = durations_h
+    df["origem_endereco"] = origin_names
+    df["origem_coords"] = origin_coords
+    df["destino_municipio_endereco"] = dest_names
+    df["destino_municipio_coords"] = dest_coords
+
+    # Seleciona e ordena colunas finais para o CSV
+    df_out = df[[
+        "municipio", "codigo_ibge", "idhm_2010",
+        "dist_km_geodesica_salvador", "dist_km_rodoviaria_salvador", "duracao_h_viagem",
+        "origem_endereco", "origem_coords",
+        "destino_municipio_endereco", "destino_municipio_coords"
     ]]
 
     # Exporta
     out_path = args.out
     df_out.to_csv(out_path, index=False, encoding="utf-8")
     print(f"\nConcluído! CSV gerado em: {out_path}")
-    print("Colunas: municipio,codigo_ibge,idhm_2010,dist_km_geodesica_salvador,dist_km_rodoviaria_salvador")
+
 
 if __name__ == "__main__":
     main()
